@@ -1,0 +1,1522 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The triumph-royal containing a short account of the most remarkable battels, sieges, sea-fights, treaties, and famous atchievements [sic] of the princes of the House of Nassau &amp;c. describ'd in the triumphal arches, piramids, pictures, inscriptions, and devices erected at the Hague in Honour of William III, King of England, Scotland, France and Ireland ...</title>
+            <author>Beek, J., fl. 1691-1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 92 KB of XML-encoded text transcribed from 95 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27254</idno>
+            <idno type="STC">Wing B1686</idno>
+            <idno type="STC">ESTC R32563</idno>
+            <idno type="EEBO-CITATION">12724974</idno>
+            <idno type="OCLC">ocm 12724974</idno>
+            <idno type="VID">66330</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27254)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66330)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1030:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The triumph-royal containing a short account of the most remarkable battels, sieges, sea-fights, treaties, and famous atchievements [sic] of the princes of the House of Nassau &amp;c. describ'd in the triumphal arches, piramids, pictures, inscriptions, and devices erected at the Hague in Honour of William III, King of England, Scotland, France and Ireland ...</title>
+                  <author>Beek, J., fl. 1691-1702.</author>
+               </titleStmt>
+               <extent>[10], 96 p. 61 leaves of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Hen. Rhodes ... and John Harris ...</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: The glorious reception of William III, King of England at his entrance into the Hague, the 5th of February, in the year 1691.</note>
+                  <note>Preliminary matter signed: J. Beek.</note>
+                  <note>"First done in Dutch, then into French, and now into English."</note>
+                  <note>"Dedicated to Her Majesty."</note>
+                  <note>Imperfect: tightly bound with loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:66330:1" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:66330:2"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of allegorical representation of William III's victory</figDesc>
+                  <head>TRIOMPHE DV ROY</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:66330:2" rendition="simple:additions"/>
+            <p>THE <hi>Triumph-Royal:</hi> CONTAINING A ſhort Account of the moſt Re<g ref="char:EOLhyphen"/>markable Battels, Sieges, Sea-fights, Trea<g ref="char:EOLhyphen"/>ties, and Famous Atchievements of the Prin<g ref="char:EOLhyphen"/>ces of the Houſe of <hi>NASSA<g ref="char:V">Ʋ</g>,</hi> &amp;c.</p>
+            <p>DESCRIB'D In the Triumphal Arches, Piramids, Pictures, Inſcriptions, and Devices, Erected at the <hi>Hague</hi> in Honour of <hi>WILLIAM</hi> III. King of <hi>England, Scotland, France,</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>Curiouſly Engraven in <hi>62</hi> Figures on Copper Plates, with their Hiſtories; An Elaborate Piece of Curioſity.</p>
+            <p>Firſt done in Dutch, then into French, and now into Engliſh.</p>
+            <p>Dedicated to Her Majeſty.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Hen. Rhodes</hi> near <hi>Bride Lane</hi> in <hi>Fleetſtreet,</hi> and <hi>John Harris</hi> at the <hi>Harrow</hi> in the <hi>Poultry.</hi> 1692.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:66330:3"/>
+            <pb facs="tcp:66330:3" rendition="simple:additions"/>
+            <head>TO The GREAT and PUISSANT Queen <hi>MARIE,</hi> By the Grace of God, Queen of <hi>England, Scotland, France,</hi> and <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>Great and Puiſſant Queen,</salute>
+            </opener>
+            <p>IF in Ancient Times, Hero's were Ho<g ref="char:EOLhyphen"/>nour'd with Publick Monuments, when they had perform'd any Extraordinary Atchievements, to the end the Memory of their Actions might be preſerved to Poſterity, and their Off-ſpring the more inflam'd to imi<g ref="char:EOLhyphen"/>tate their Virtues; If the <hi>Romans,</hi> among o<g ref="char:EOLhyphen"/>ther the beſt regulated Governments, ſtrove, as they did, to excel all others in celebrating the Renown of their Kings, their Emperors and fa<g ref="char:EOLhyphen"/>mous Captains, by erecting to their Honour ſumptuous Statues, lofty Pyramids, and Mag<g ref="char:EOLhyphen"/>nificent Triumphal Arches, when thoſe Hero's return'd Victorious to <hi>Rome;</hi> What then can be done too much at this time, <hi>Great</hi> and <hi>Vir<g ref="char:EOLhyphen"/>tuous Q<g ref="char:V">Ʋ</g>EEN,</hi> to Honour at the <hi>Hague</hi> the Entrance of <hi>WILLIAM</hi> III. Your moſt Illuſtrious Husband? He, who by his Glorious Deeds has quite defaced whatever thoſe Demi<g ref="char:EOLhyphen"/>gods, ſo much celebrated in Hiſtory, perform'd
+<pb facs="tcp:66330:4"/> of moſt Tranſcendent. For whatſoever ren<g ref="char:EOLhyphen"/>der'd ſo famous thoſe Prodigies of Antiquity, they only did in favour of their Country, or ra<g ref="char:EOLhyphen"/>ther to get themſelves a Name, but <hi>MIGHTY Q<g ref="char:V">Ʋ</g>EEN, WILLIAM</hi> the <hi>TRI<g ref="char:V">Ʋ</g>MPHANT,</hi> had no other aim in all his Enterprizes, but to advance the Glory of the King of Kings: He was never capable of unjuſt Ambition, or deſire of Rule: Only his Compaſſion upon the Miſerable, Suffering in a good Cauſe, and his de<g ref="char:EOLhyphen"/>ſire to deliver 'em from the yoak that Tyran<g ref="char:EOLhyphen"/>ny would have impos'd upon their Conſciences, were the ſole Motives that rowz'd him up to Action. The many Dangers to which he has already expos'd his Life to defend the Rights of Juſtice, are too well known to all the World, for me to enlarge upon 'em. 'Tis true Great <hi>Q<g ref="char:V">Ʋ</g>EEN,</hi> I have here a ſpacions Field to fill theſe Pages with the due Encomiums that be<g ref="char:EOLhyphen"/>long to our Matchleſs Heroe, and Your Ma<g ref="char:EOLhyphen"/>jeſty. For what Great Things might not be ſaid of Your Wiſdom and Prudence, Your Reſoluti<g ref="char:EOLhyphen"/>on, and the Mildneſs of Your Government, when in his Abſence You held the Reins of So<g ref="char:EOLhyphen"/>vereign Rule. But beſides that, I know You are above the reach of common Praiſe; I have not Eloquence to acquit my ſelf, as the Gran<g ref="char:EOLhyphen"/>deur and the Excellency of the Subject require. Tha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'s a work for the Bold ſtroaks of the moſt accompliſh'd Maſters of Wit and Learning. 'Tis for them to take upon 'em the Care of ma<g ref="char:EOLhyphen"/>king known to Poſterity the Eternal Honor,
+<pb facs="tcp:66330:4"/> which the Heroe of our Age has acquir'd by the Favourable Revolution in <hi>England.</hi> To which they may alſo add, the happy Change of the de<g ref="char:EOLhyphen"/>plorable Face of the Affairs of the <hi>
+                  <g ref="char:V">Ʋ</g>nited-Provin<g ref="char:EOLhyphen"/>ces</hi> in the year 1672. There is no body but knows the Miſeries into which they were then plung'd, even within two fingers breadth of utter Ruine, when this Great Prince, being made Governor-General, made it his chiefeſt Care to raiſe their drooping Hopes, and forc'd a King no leſs Po<g ref="char:EOLhyphen"/>tent than Ambitious to reſtore the Uſurpati<g ref="char:EOLhyphen"/>ons of his Unjuſt War. But <hi>MIGHTY Q<g ref="char:V">Ʋ</g>EEN,</hi> What might not alſo be farther ſaid of You? There is no body but knows, beſides the Gran<g ref="char:EOLhyphen"/>deur of Your Soul, how deeply ſenſible Your Majeſty was of the unheard of Cruelties, under<g ref="char:EOLhyphen"/>gone by the perſecuted Proteſtants in <hi>France,</hi> who were driven by the Tempeſt into theſe Happy Provinces; where they not only found an aſſured Sanctuary under the Protection of the Sovereigns of the Government, but where they found the frequent and Extraordinary Marks of your Majeſty's, as alſo of that Generous Prince's Bounty, wh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m Heaven ordained to be your Husband. You have both Labour'd ſo effectually for the Welfare of the Church, that it is plainly to be ſeen that God united your Majeſties together on purpoſe to be the ſteady Pillars of it. Nor is this enough, Great Queen, It behoves me alſo to add, that the moſt ſolid Part of <hi>Europe</hi> looks upon You Two, as the Principal Inſtruments that Heaven has made
+<pb facs="tcp:66330:5"/> choice of to break the Fetters of her Slavery. The Earneſtneſs of ſo many Sovereign Princes to be your Allies, is a Sacred Proof of this ſame Truth. To which we might alſo farther add what ſo many Princes verify'd, in waiting on his Majeſty upon his firſt Return from <hi>England</hi> to the <hi>Hague,</hi> where they altogether formed one Court, the moſt ſplendid that has been ſeen for many Ages. But I wander too far: my aim is Humbly to beg Your Majeſties Pro<g ref="char:EOLhyphen"/>tection of theſe few Sheets, in hopes of your Gracious acceptance; as being not only a Col<g ref="char:EOLhyphen"/>lection in part of the great Atchievements of the Princes of the Houſe of <hi>Naſſau,</hi> Your Glo<g ref="char:EOLhyphen"/>rious Anceſtors, but of thoſe of his <hi>Britannie</hi> Majeſty, Your Illuſtrious Husband, I was willing to believe that by repreſenting to your Royal View, the Homage that was paid him, and which he had deſervedly acquir'd, I ſhould in ſome meaſure diſcharge my Duty to your Majeſty; and that You would be ſo Gracious as to permit me, with a moſt profound Reſpect to ſtile my ſelf,</p>
+            <closer>
+               <salute>GREAT QUEEN,</salute>
+               <signed>Your Majeſties Moſt Humble, moſt Dutiful, and moſt Obedient Servant, J. BEEK.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:66330:5"/>
+            <head>TO THE READER.</head>
+            <p>WE Obſerve in all Hiſtories that when<g ref="char:EOLhyphen"/>ever any great Perſonages had Sig<g ref="char:EOLhyphen"/>naliz'd themſelves by any Extraordinary Acti<g ref="char:EOLhyphen"/>ons that merited to be preſerved in Remem<g ref="char:EOLhyphen"/>brance, they erected in their Honours Trophies and Triumphal Arches, not only to ſet ſorth the Joy of the People, but that they might ſerve as Eternal Monuments to perpetuate the Renown of thoſe Great Heroes. All Men know, that what the King of <hi>England</hi> did, while he was yet but P. of <hi>Orange,</hi> in deli<g ref="char:EOLhyphen"/>vering <hi>England</hi> and <hi>Scotland</hi> from the Yoak under which they both groan'd, and his Redu<g ref="char:EOLhyphen"/>cing <hi>Ireland</hi> after his Advancement to the Crown, and all this in ſo little a Time, were Actions altogether Generous and Glorious to the Higheſt Degree. By that alone he reſtored the Rights, Priviledges, Liberties and Religion of a Nation, which a Violent Government was labouring to Annihilate: He re-eſtabliſh'd
+<pb facs="tcp:66330:6"/> the Republick of the United Provinces of which he is Governor; and preſently put himſelf into a Poſture to break the Chains which a Prince no leſs Ambitious than Covetous, had been a long-time forging to enſlave all <hi>Europe.</hi> Could they do leſs in a Country to which this Great Prince has always been ſo dear, than erect at his Return thoſe Tryumphant Arches which his Proweſs had deſerv'd? And can I do a greater piece of Service to the Publick, than by giving a Deſcription and Explanation of all the Figures, Paintings and Deviſes, which adorn'd thoſe Sumptuous Triumphant Arches? The Fame of theſe Pieces, as being the Workmanſhip of moſt Skilful Maſters, drew to the <hi>Hague</hi> where they were Erected, innumerable Crouds of People, that thronged from all parts far and near, to be both the Spectators and Admirers of ſo glorious and unwonted a Spectacle. And this alone is ſuf<g ref="char:EOLhyphen"/>ficient to recommend the following Sheets to the World, and ſecure the Sale of the Book: If it be favourably receiv'd, as I hope it will be, it will encourage me to continue the marks of my Zeal for the Publick, upon all Occaſi<g ref="char:EOLhyphen"/>ons of the like Nature.</p>
+            <closer>
+               <signed>J. BEEK<g ref="char:punc">▪</g>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:66330:6"/>
+            <head>THE Glorious Reception OF William III. King of <hi>ENGLAND,</hi> At his Entrance into the <hi>Hague,</hi> the 5th of <hi>February,</hi> in the Year 1691.</head>
+            <p>NEVER was Prince more ardently long'd for in a State, as was the King of <hi>England,</hi> in the beginning of this Year, expected at the <hi>Hague;</hi> not only by all the People of the <hi>
+                  <g ref="char:V">Ʋ</g>nited Provinces,</hi> but alſo by the greateſt part of the Princes of <hi>Europe;</hi> where he was ſtay'd for ei<g ref="char:EOLhyphen"/>ther by the Princes themſelves, or by their Ambaſſa<g ref="char:EOLhyphen"/>dors, being look'd upon by all, as the moſt ſolid ſupport of their Dominions, and the Repairer of all the Loſſes they had ſuſtain'd by the Violences of their Common Enemy.</p>
+            <p>This Great Monarch, who knows not what it is to be ſparing of his own Perſon, when all are con<g ref="char:EOLhyphen"/>tending
+<pb n="2" facs="tcp:66330:7"/> for the Common Cauſe, made no ſcruple to expoſe himſelf upon the rude Ocean, in a Seaſon the moſt incommodious and moſt dangerous, to ſatisfie their Wiſhes. This was upon the 26th of <hi>January</hi> in the Year 1691. for then it was that he departed a ſecond time from <hi>London,</hi> and arrived upon our Coaſts the 31ſt of the ſame Month, in the Afternoon, where he threw him<g ref="char:EOLhyphen"/>ſelf into Dangers, perhaps the greateſt that ever were hazarded. The Tide was againſt him, but the Weather Calm; however accompanied with a thick Fog which laſted three Days; ſo that neither the Yachts nor the Men of War that attended him durſt venture near the Shoar. Which obliged him, contrary to the Advice of his Cap<g ref="char:EOLhyphen"/>tains, and ſeveral other expert Seamen, to ha<g ref="char:EOLhyphen"/>zard himſelf in a Sloop, accompanied only by the Earl of <hi>Devonſhire, Naſſau Ouwerkerk,</hi> the Earls of <hi>Nottingham</hi> and <hi>Portland,</hi> one Valet de Cham<g ref="char:EOLhyphen"/>bre, and three Lacqueys; in hopes no doubt that he might get aſhoar in ſome Port, or Land at leaſt in ſome other Place. But the Sloop finding it ſelf incumber'd with the Ice, and ha<g ref="char:EOLhyphen"/>ving the Tide contrary, could make no way to any Landing-Place; ſo that the King was con<g ref="char:EOLhyphen"/>ſtrain'd to lye by, though without ſhelter from the Weather, for the ſpace of Two and twenty Hours, environ'd with Ice, open to imminent Danger, and the Extremity of a piercing and rigorous Seaſon: Nor did he ſet foot aſhoar till the next day about Noon, at <hi>Orange Polder,</hi> a little League diſtant from the Village of <hi>Naetwijck.</hi> Upon his going out of the Sloop, he met by good hap with a Poſt-Boy's Horſe, that was newly come to the place, of which
+<pb n="3" facs="tcp:66330:7"/> he made uſe to get to a Countryman's Houſe, where he warm'd himſelf, together with the Lords that attended him, till the Coaches that were ſent for, arrived, and which he ordered to drive di<g ref="char:EOLhyphen"/>rectly to <hi>Honſhlaerdijck.</hi> He was Complimented by the way by ſome of the Deputies of the States: that is to ſay, by Monſieur <hi>d'Opdam,</hi> in the Name of the Chevalry and Nobility of <hi>Holland</hi> and <hi>Weſt-Friſe;</hi> by Mr. <hi>Belarts,</hi> in the name of the City of <hi>Dordreck;</hi> by Mr. <hi>Witſen,</hi> in the Name of the City of <hi>Amſterdam,</hi> and by Mr. <hi>Vryburgh,</hi> in the Name of the City of <hi>Alcmaer.</hi> The ſame Ceremonies were alſo performed by the Imperial and Spaniſh Ambaſſa<g ref="char:EOLhyphen"/>dors, the Counts <hi>de Berka</hi> and <hi>Colonna,</hi> and the Go<g ref="char:EOLhyphen"/>vernour of <hi>Friſe,</hi> and ſome other Lords of greateſt Note. At length, he arrived <hi>Incognito</hi> at the <hi>Hague</hi> about Six a Clock in the Evening, extremely diſ<g ref="char:EOLhyphen"/>compoſed by a Defluxion of Rhume, occaſioned by the vehemency of the cold which he had endured all the while that he lay in the Sloop.</p>
+            <p>He was no ſooner alighted out of the Coach, but he was Complimented by their High and Mightineſſes, the States of <hi>Holland</hi> and <hi>Weſt-Friſe,</hi> who at that time were aſſembled together: and Mr. <hi>Heinſius</hi> was the Perſon who carried the Meſ<g ref="char:EOLhyphen"/>ſage in the Name of the whole Body, to which the King made Anſwer in few words, but in moſt obliging Terms. After which, he ſate down to Dinner, and fed with a good Appe<g ref="char:EOLhyphen"/>tite, notwithſtanding the Indiſpoſition of his Ca<g ref="char:EOLhyphen"/>tarrh, and reſted very well the following Night.</p>
+            <p>The certain News of the King's Landing was no ſooner arrived at the <hi>Hague,</hi> but Orders were given for Three Diſcharges of the Great Guns,
+<pb n="4" facs="tcp:66330:8"/> to the number of Thirty Pieces of Cannon that were planted upon the <hi>Vyverbergh,</hi> and to Ring all the Bells; which was done again the ſame Day, at the very moment of his Entrance into the <hi>Hague.</hi> And then it was, that the extraordinary Zeal ap<g ref="char:EOLhyphen"/>pear'd of every particular Perſon to teſtifie their unfeigned Joy; ſome ſeveral times diſcharging thoſe leſſer Pieces of Artillery which they kept in their Houſes; others not only making Bonfires be<g ref="char:EOLhyphen"/>fore their Doors, but Sporting at their Windows with Variety and Curioſity of Fire-works. But the moſt part expreſſed their Gladneſs with their Glaſſes in their Hands, Drinking the King's Health, and wiſhing him all manner of Proſperity toge<g ref="char:EOLhyphen"/>gether with Long Life, ſo that there were very few that returned home to their own Houſes but with light and chearful Hearts. Nevertheleſs, the Streets were ſo numerouſly throng'd all the Night long, that you ſhall ſeldom ſee the moſt enflam'd Se<g ref="char:EOLhyphen"/>ditions muſter more People together. The Tran<g ref="char:EOLhyphen"/>ſports of their Joy might be eaſily read in their Countenances; and ſome there were that could hardly be convinced the King was arrived, as doubtful whether they deſerved of Heaven ſo great a Happineſs.</p>
+            <p>In the mean time, the Poſt-Offices both of <hi>Am<g ref="char:EOLhyphen"/>ſterdam</hi> and other Places, were ſo throng'd with Letters that Night, while every body was deſi<g ref="char:EOLhyphen"/>rous to ſend the Pleaſing News to his Friends, that it was hardly known that ever ſo many had been ſeen deliver'd into the Offices at one time.</p>
+            <p>The Day following, His Majeſty was Com<g ref="char:EOLhyphen"/>plimented by all the Ambaſſadors, Corporations and Perſons of Quality. And then it was, that
+<pb n="5" facs="tcp:66330:8"/> they found he had ſo little Inclination to make his Publick Entry into the <hi>Hague,</hi> that he refus'd it altogether. However at length he ſuffer'd himſelf to be over-rul'd by the earneſt Importunities of ſome of the Bodies of the State, and the Magiſtracy of the <hi>Hague,</hi> who beſought him ſeveral times, that he would vouchſafe that Satisfaction to the Publick, in regard the Charges were already disburs'd, and all things in a readineſs.</p>
+            <p>Thereupon, the <hi>Monday</hi> following, being the Fifth of <hi>February,</hi> 1691. was fixed for the Solemnity. And then it was that ſuch a number of People from the Cities and Provinces adjoyning crouded in Throngs to the <hi>Hague,</hi> that there was hardly any paſſing in the broadeſt Streets of the Town. And the number had been infinitely greater, had not the incommodious Seaſon of the Winter, and the Ice lock'd up the paſ<g ref="char:EOLhyphen"/>ſage of the Boats, and a Dirty Thaw detain'd ſome Thouſands within their Houſes. For all the Waggons were taken up; nor was the Ice ſtrong enough to ſuffer the uſe of Seates. However the Croud was ſo numerous, that the Magiſtrates were forc'd to ſet open the Church Doors, to give ſhelter to thoſe that could meet with no Accommodation in Publick Houſes.</p>
+            <div type="part">
+               <head>The Continuance of His Majeſty's Entry, in the Manner that it Paſs'd.</head>
+               <p>The Day appointed for the Ceremony being come, the Burgeſſes of the <hi>Hague</hi> had notice given 'em againſt Ten of the Clock in the Morning, by the Toll of the Town-Houſe Bell, to repair every one to their Poſts. Preſently they all appeared un<g ref="char:EOLhyphen"/>der their Banners diſplay'd, and ſo neat and ſpruce
+<pb n="6" facs="tcp:66330:9"/> in their Attire, with every one a Plume of Feathers in his Hat, that it was a pleaſing ſight to behold. A great Number were clad in Buff from Head to Foot; and ſeveral Ranks of Eight a Breaſt were Apparelled after the ſame manner, without any diſtinction to be perceiv'd either in their Habits or their other Ornaments. And thus they rang'd them<g ref="char:EOLhyphen"/>ſelves from the Bridge of <hi>Looſduynſe</hi> to the upper End of the <hi>Hoogſtraet.</hi> The Baron <hi>de Frieſſum</hi>'s Re<g ref="char:EOLhyphen"/>giment of Foot, and Coll. <hi>Itterſum</hi>'s Regiment of Horſe were alſo drawn up upon the <hi>Buytenhof.</hi>
+               </p>
+               <p>About Three a Clock in the Afternoon, the King took Coach upon the <hi>Binnen-hof,</hi> the Count of <hi>Naſ<g ref="char:EOLhyphen"/>ſau Overkirke,</hi> ſitting upon his left Hand, and the Earls of <hi>Monmouth</hi> and <hi>Scarborough,</hi> oppoſite to him. Two Coaches with Six Horſes apiece preceded the King's, being fill'd with ſome Gentlemen of his Train; and on each ſide of the King's Coach marched Nine Switzers. After which follow'd Thirty other Coaches, the moſt part Drawn by Six Horſes, there being very few that had leſs than Four; and among the reſt were the Duke of <hi>Norfolk</hi>'s, the Earls of <hi>Devonſhire</hi>'s and <hi>Portland</hi>'s, the Biſhop of <hi>London</hi>'s, and ſeveral others belonging to Per<g ref="char:EOLhyphen"/>ſons of the higheſt Quality, every one according to their Degrees of Precedency. The King being paſſed the <hi>Binnen-hof,</hi> continued on along the <hi>Vyver<g ref="char:EOLhyphen"/>berg,</hi> and through the <hi>Hangſtraet,</hi> and thence through the <hi>Noordreynde,</hi> and ſo ſlowly forward to <hi>Scheve<g ref="char:EOLhyphen"/>ling</hi>-Bridge, and ſo keeping on ſtill along the <hi>Noort-Cingel,</hi> continued his way till he came to <hi>Looſdeynſe-Brugg.</hi>
+               </p>
+               <p>There His Majeſty was received by the Body of the Magiſtracy, and Complimented in few words
+<pb n="7" facs="tcp:66330:9"/> by their Penſioner. After which, they who were appointed to give Notice of his Entrance into the <hi>Hague,</hi> performed that Office by ſetting fire to two Rockets, which were preſently anſwer'd by the Diſcharge of all the Artillery upon the <hi>Vyverberg,</hi> and the Ringing of all the Bells.</p>
+               <p>Now then to give the Particulars of the En<g ref="char:EOLhyphen"/>trance, in the firſt place Forty young Gentlemen well Mounted, Magnificently Apparell'd and of comely Aſpects, march'd at the Head of all the Train. Theſe were follow'd by two Troops of the Guards of the Body, that preceded the two Coaches where His Majeſty's Gentlemen rode. After which immediately march'd about Twenty Lacqueys, juſt before His Majeſty's Coach, which was drawn with Six Horſes, and attended by Nine Switzers on each ſide with their Halberds in their Hands. Behind His Majeſty's Coach rode Eight of the King's Trum<g ref="char:EOLhyphen"/>peters continually Sounding, and next to them Six<g ref="char:EOLhyphen"/>teen of the Guards of the Body, two and two, and then the whole Train of Coaches already men<g ref="char:EOLhyphen"/>tion'd. Thus paſſing on through the <hi>Weſt-Eynde,</hi> in the midd'ſt of the Burghers, Drawn up in Rank and File, they advanc'd to the Great Market-Place, to the Triumphal Arch, erected at the En<g ref="char:EOLhyphen"/>trance of the <hi>Hoogſtraet;</hi> through which being paſs'd, they proceeded under the Second to the Third, which was the moſt Beautiful and Magni<g ref="char:EOLhyphen"/>ficent of all, erected upon the <hi>Buyten-hof,</hi> through which they mov'd on to the <hi>Binnenhof,</hi> where ended the Ceremony of Entrance, in view of ſuch an Infi<g ref="char:EOLhyphen"/>nite number of Spectators, that the like was never ſeen at the <hi>Hague</hi> before.</p>
+               <pb n="8" facs="tcp:66330:10"/>
+               <p>From <hi>Looſduyne-Brugg</hi> to the laſt Triumphal Arch, all the Windows and Balconies were cover'd with Tapeſtry, and crouded for two Stories high, while others mounted up the Tops of the Houſes, and others ſtood in heaps before their own Doors, inſomuch that ſeveral Rooms were Lett that Night for ſeveral Duckets apiece. Yet all this while thoſe Crouds were not to be compared to the Prodigious Multitudes of People that ſtood gaping in the Streets where they could beſt accommodate them<g ref="char:EOLhyphen"/>ſelves. Nor muſt it be forgot, that this Auguſt and Solemn Ceremony was perform'd with very little Miſchief done. True it is that the inadvertency of a Gunner coſt him his Life; for having omitted to cool his Gun before he charg'd it again, as he ſtood before the Mouth of the Piece to put in the Charge, the Powder took Fire, and carried away one Arm and one Hand, of which he died in a ſhort time after.</p>
+               <p>There was but one more Accident that happened of leſſer moment as it fell out, and that was all. For the Lord Ambaſſador of <hi>England</hi>'s Coach paſſing by the <hi>Vyverberg,</hi> juſt as the Guns were going off, the Horſes being frighted fell a capring and rearing and went over a ſingle Perſon, but without doing him any conſiderable harm. 'Tis true, they might have done much more Miſchief, but they were ſoon ſtopp'd in their Fury, and after that went quietly along.</p>
+               <p>The King with all his Train being thus paſs'd by, the Burghers in their Arms followed him as far as the <hi>Buytenhof,</hi> where they drew up and gave him a Military Salute of three Volleys of ſhot one after another, and all this while the Bells rang, and
+<pb n="9" facs="tcp:66330:10"/> Peals of Cannon proclaim'd the Univerſal Joy. About half an Hour after Six a Clock in the Even<g ref="char:EOLhyphen"/>ing the Fire-works began, the moſt Curious pieces of Skill and Cunning that had been ſeen; and which were all Play'd off from a Theatre erected on purpoſe in the <hi>Vivier.</hi> And while theſe Illumina<g ref="char:EOLhyphen"/>tions filled the Air with a delightful Variety of Ar<g ref="char:EOLhyphen"/>tificial Meteors, the Streets below flam'd full of Bonfires as well before every particular Perſons Door, as before the Gates and Windows of all the Foreign Princes and Publick Miniſters; not without all the reſt of thoſe Concomitants that attend No<g ref="char:EOLhyphen"/>cturnal Exultations,</p>
+               <p>The Method we ſhall purſue in the Explanation of all the following Pieces that ſerved for Orna<g ref="char:EOLhyphen"/>ments to Compleat the Magnificence of this Publick Entry, ſhall be according to the Order wherein they were erected in the ſeveral Places through which His Majeſty was to Paſs; beginning at the Bridge of <hi>Looſduynſe,</hi> and ſo continuing to the End of the whole Show. We ſhall alſo expoſe to Pub<g ref="char:EOLhyphen"/>lick View the ſeveral ſtrains of Polite Invention, that were to be ſeen upon the Town Houſe, and the Triumphal Arches erected in His Majeſty's Paſſage, to enliven the Pomp: together with the moſt memorable Battels, Sieges and Treaties made by his Anceſtors, and ſome no leſs famous Atchieve<g ref="char:EOLhyphen"/>ments of his own, with all the quaint <hi>Deviſes</hi> and ingenious <hi>Emblems</hi> that embelliſhed the Triumphal Arches themſelves, the Maſter-Pieces both of Art and Learning.</p>
+               <div n="1" type="illustration">
+                  <pb n="10" facs="tcp:66330:11"/>
+                  <head>FIGURE I.</head>
+                  <p>The firſt Triumphant Arch through which the moſt renowned Monarch made his Entry, was erected upon the Bridge of <hi>Looſduyns,</hi> in the Frontiſpiece of which was to be ſeen <hi>Scevola,</hi> who ſpared neither his Body nor his Purſe for the Common Cauſe. Over Him, the King appears ſtanding upright upon his Feet, with a Battoon of Command in his Hand, and at the upper End of it, his Name, Crown'd with this Inſcription,
+<q>TRIUMPHO.</q>
+                     <q>I Triumph.</q>
+                  </p>
+                  <p>On each ſide below, lay two Figures at his Feet, On the one ſide, repreſenting Victory, and a great Number of Battels; On the other, ſe<g ref="char:EOLhyphen"/>veral Trophies, with a Captive laden with Fetters.</p>
+                  <p>Upon each Pillar of the Arch was to be read the following Inſcriptions,
+<q>OB CIVES SERVATOS &amp; HOSTES FUGATOS</q>
+                     <q>For Citizens Preſerv'd, and Enemies put to Flight.</q>
+                  </p>
+                  <pb facs="tcp:66330:11"/>
+                  <figure>
+                     <figDesc>engraving of triumphal arch</figDesc>
+                     <head>Fig 1</head>
+                  </figure>
+                  <pb facs="tcp:66330:12"/>
+                  <pb n="11" facs="tcp:66330:12"/>
+                  <p>On the Backſide,
+<q>LIBERATIS REGNIS Et RESTITUTIS PROVINCIIS.</q>
+                     <q>Kingdoms ſet Free and Provinces Reſtor'd.</q>
+                  </p>
+                  <p>Upon the ſame ſide were to be ſeen two Ovals, in one of which was a Laurel, and underneath
+<q>VICTORIAE</q>
+                     <q>To Victory.</q>
+                  </p>
+                  <p>In the other, an Orange, with this ſingle Word
+<q>CLEMENTIAE</q>
+                     <q>To Clemency.</q>
+                  </p>
+               </div>
+               <div n="2" type="illustration">
+                  <pb n="12" facs="tcp:66330:13"/>
+                  <head>FIGURE II.</head>
+                  <p>The Second Figure gives you a Proſpect of the Town Houſe, with Seven Paintings, all New Inventions, environ'd with Garlands of Foreſt-work and Flowers, which being tranſ<g ref="char:EOLhyphen"/>parent, and being penetrated by the No<g ref="char:EOLhyphen"/>cturnal Illumination, afforded a moſt pleaſing Variety to the Sight. This Divertiſement was accompanied with a Noiſe of Trumpets, and ſeveral other Inſtruments of Loud Muſick: All which is Repreſented in the Third and Fourth Figures.</p>
+               </div>
+               <div n="2" type="illustration">
+                  <pb facs="tcp:66330:13"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of town house</figDesc>
+                        <head>Fig 2</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="3" type="illustration">
+                  <pb facs="tcp:66330:14"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of portraits of William III and Mary II over pictures of a lion and a unicorn, respectively</figDesc>
+                        <head>Fig 3</head>
+                        <q>PLACIDUM VENERANTUR ET HORRENT INFESTUM</q>
+                        <q>NIL PASSA VENE<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </q>
+                     </figure>
+                  </p>
+               </div>
+               <div n="3" type="illustration">
+                  <pb n="13" facs="tcp:66330:14"/>
+                  <head>FIGURE III.</head>
+                  <p>In the Third Figure,</p>
+                  <p>Were the Pictures of the King and Queen in their Royal Robes; and underneath two Emblems, the one a Lyon Paſſant, with this Motto,
+<q>PLACITUM VENERANTUR Et HORRENT INFESTUM.</q>
+                     <q>Gentle they Adore him, Dread him Anger'd.</q>
+                  </p>
+                  <p>In the other, a Unicorn Poking a Neſt of Serpents with his Horn, with this Motto,
+<q>NIL PASSA VENENI.</q>
+                     <q>No Venom harms Her.</q>
+                  </p>
+               </div>
+               <div n="4" type="illustration">
+                  <pb n="14" facs="tcp:66330:15"/>
+                  <head>FIGURE IV.</head>
+                  <p>In this Figure are repreſented three Em<g ref="char:EOLhyphen"/>blems: In the Lowermoſt, an <hi>Atlas</hi> bearing the Globe of the World upon his Shoulders, who to eaſe himſelf of the weight of his Bur<g ref="char:EOLhyphen"/>then, reſts his Breaſt againſt a Hillock with theſe words,
+<q>IN TE DOMUS INCLINATA RECUMBIT.</q>
+                     <q>On thee the Falling Fabrick leans.</q>
+                  </p>
+                  <p>The Second is a Stork upon her Neſt, clap<g ref="char:EOLhyphen"/>ping her Wings, and fixing her Eyes toward the Dawning Day and Riſing Sun, with this Motto
+<q>RECREATUR AB ORTU.</q>
+                     <q>Recheriſh'd by the Dawning Eaſt.</q>
+                  </p>
+                  <p>The Third repreſents another Stork ſtanding upright in her Neſt, and clapping her Wings toward the Sun, with this Impreſe
+<q>VIDIT ET EXULTAVIT.</q>
+                     <q>She Beheld and Rejoyc'd.</q>
+                  </p>
+               </div>
+               <div n="4" type="illustration">
+                  <pb facs="tcp:66330:15"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of a stork standing, a stork in a nest, and Atlas holding the globe</figDesc>
+                        <head>Fig 4</head>
+                        <q>VIDIT ET EXULTAVIT RECREATUR AB ORTU</q>
+                        <q>IN TE DOMUS INCLINATA RECUMBIT.</q>
+                     </figure>
+                  </p>
+               </div>
+               <div n="5" type="illustration">
+                  <pb facs="tcp:66330:16"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of triumphal arch</figDesc>
+                        <head>Fig: 5</head>
+                     </figure>
+                  </p>
+                  <pb facs="tcp:66330:17"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+               </div>
+               <div n="5" type="illustration">
+                  <pb n="15" facs="tcp:66330:17"/>
+                  <head>
+                     <hi>FIGURE V.</hi> The DESCRIPTION of the TRI<g ref="char:V">Ʋ</g>MPHAL ARCH <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rected in the Great <hi>Market-Place</hi> at the Entrance into the <hi>Hoogſtraet.</hi>
+                  </head>
+                  <p>THis was the Higheſt and moſt Elevated of all the reſt, without any Saliant Columns, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Pillars being only repreſented in Painting: <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mong which, thoſe that were above the Gate <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ere of Silk and Diaphanous, to the End the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vening Illuminations might ſtrike through <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m; over which appear'd a Rainbow Pendent <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Air with three Crowns.</p>
+                  <p>Over the Convex was plac'd a Celeſtial <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>here, upon which ſtood a flying Fame, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lding a volant <hi>Pegaſus</hi> in one hand, and <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>unding a Trumpet which ſhe held in the <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>her: And on each ſide of the Sphere a Repre<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ntation of ſeveral Trophies.</p>
+                  <p>On the Backſide of this Piece were to be <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>en the Imperial Arms of <hi>Naſſau,</hi> from which <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Emperor <hi>Adolphus</hi> deſcended, having Eight <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>arters on each ſide.</p>
+                  <p>In the Circuit and ſeveral other Parts of <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Arch, were repreſented ſeveral Hiſtories, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>th their proper Inſcriptions. In one place,
+<pb n="16" facs="tcp:66330:18"/>
+                     <q>NOBILIUM PRIMO, DUCUM MAX<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>MO, POSTHUMO <hi>GULIELMO</hi> TER<g ref="char:EOLunhyphen"/>TIO, COELITUS DATO.</q>
+                     <q>To the Chiefeſt of Worthies, Greateſt of Captain<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>William</hi> the Third, the Poſthumous Gift of Heaven.</q>
+                  </p>
+                  <p>On the other ſide, in ſeveral Places bo<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Above and in the Middle of the Paintings,
+<q>VICTORIIS, TROPHAEIS, FORTISSIM IMPERATORI, CAUTISSIMO GU<g ref="char:EOLhyphen"/>BERNATORI, DESTINATUM.</q>
+                     <q>In Honour of the Moſt undaunted Leader, m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Prudent Governour, his Trophies and his Victories</q>
+                  </p>
+                  <p>At the Foot of the ſame Piece this Inſcri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>tion was to be read,
+<q>QUATUOR REGNORUM REGI, FO<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>DERATI BELGII GUBERNATORI <hi>GULIELMO</hi> TERTIO VIRTUTE ET TRIUMPHIS FULGENTI.</q>
+                     <q>To the Monarch of Four Kingdoms, Governor of <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> United Provinces, <hi>William</hi> the Third, ſhining with Vertue and Triumphs.</q>
+                  </p>
+                  <p>On the other ſide theſe words appear'd,
+<pb n="17" facs="tcp:66330:18"/>
+                     <q>GRATI ANIMI, ET LAETITIAE PUBLICAE SIGNUM, HOC ERE<g ref="char:EOLhyphen"/>XIT <hi>HAGA</hi> COMITIS.</q>
+                     <q>This has the <hi>Hague</hi> Erected, in token of her Gratitude and Publick Joy.</q>
+                  </p>
+                  <p>On each ſide of this Arch were two Wings, that both together form'd a kind of Semi-Circle: And on each Wing were Seven Pi<g ref="char:EOLhyphen"/>ctures repreſenting the Battels and ſeveral Vi<g ref="char:EOLhyphen"/>ctories of the Princes of <hi>Orange,</hi> as well by Sea as Land, as may more at large be ſeen by that which follows.</p>
+                  <pb n="16" facs="tcp:66330:19"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:66330:19"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+               </div>
+               <div n="6" type="illustration">
+                  <pb n="18" facs="tcp:66330:20"/>
+                  <head>FIGURE VI.</head>
+                  <p>The Sixth Figure repreſents a Naval Engage<g ref="char:EOLhyphen"/>ment, and ſeveral Seamen in Shallops firing each at other, with this Motto underneath,
+<q>CELSAS SUPERAT VIRTUTE CARINAS.</q>
+                     <q>His Valour vanquiſhes the Talleſt Fleets.</q>
+                  </p>
+                  <p>This without Queſtion alludes to ſome Sea Fights, wherein the Hollanders with their nimble and light Frigats were Victors over the bulky Buildings of the Spaniards: And ſhews, that Victory rather depends upon the Courage of the Seamen, and Conduct of the Commanders, then the Force of Ill-manag'd unweildy Fabricks.</p>
+               </div>
+               <div n="6" type="illustration">
+                  <pb facs="tcp:66330:20"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of naval battle</figDesc>
+                        <head>Fig: 6.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="7" type="illustration">
+                  <pb facs="tcp:66330:21"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Siege of Maestricht</figDesc>
+                        <head>Fig: 7.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="7" type="illustration">
+                  <pb n="19" facs="tcp:66330:21"/>
+                  <head>FIGURE VII.</head>
+                  <p>The Seventh Figure ſets forth the Siege and Taking of <hi>Maeſtricht</hi> by <hi>Henry</hi> Prince of <hi>Orange,</hi> who made himſelf Maſter of it by Capitula<g ref="char:EOLhyphen"/>tion, the 12th of <hi>Auguſt</hi> 1632. in View of the Imperial and another Royal Army, after he had lain before the Town two Months and four Days.</p>
+                  <q>AQUILAS ET MOENIA CAEPIT.</q>
+                  <q>Their Eagles and their Walls he won.</q>
+                  <p>To ſignifie that by his Valour and Conduct, he Reduc'd ſeveral Towns, and Triumph'd in many Battels.</p>
+               </div>
+               <div n="8" type="illustration">
+                  <pb n="20" facs="tcp:66330:22"/>
+                  <head>FIGURE VIII.</head>
+                  <p>Is the Portraiture of an Amazon repreſent<g ref="char:EOLhyphen"/>ing <hi>Holland,</hi> ſeated upon a Trophy of Arms: a Helmet cover'd with a Plume of Feathers on her Head, with this word underneath, <hi>RELI<g ref="char:EOLhyphen"/>GIO;</hi> or <hi>Religion.</hi> At her Right Hand ſtands a Statue, under which was written <hi>Politia,</hi> or Political Government; and at her Left the Re<g ref="char:EOLhyphen"/>ſemblance of <hi>Juſtice,</hi> and by her Head <hi>Aera<g ref="char:EOLhyphen"/>rium,</hi> to denote her <hi>Treaſures.</hi> At her Feet on the Right Side ſits a <hi>HERCULES,</hi> and on the Left <hi>PRUDENCE</hi> with this Inſcription,
+<q>TANTAS DEDIT UNIO VIRES.</q>
+                     <q>Such Strength and Treaſures Union gave us.</q>
+                  </p>
+               </div>
+               <div n="8" type="illustration">
+                  <pb facs="tcp:66330:22"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of enthroned Amazon</figDesc>
+                        <head>Fig: 8.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="9" type="illustration">
+                  <pb facs="tcp:66330:23"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Siege of Groll</figDesc>
+                        <head>Fig: 9.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="9" type="illustration">
+                  <pb n="21" facs="tcp:66330:23"/>
+                  <head>FIGURE IX.</head>
+                  <p>The Ninth Figure repreſents the Siege of <hi>Groll,</hi> by Prince <hi>Henry;</hi> which was Surren<g ref="char:EOLhyphen"/>der'd to him by Capitulation the 20th of <hi>August,</hi> 1627. with this Inſcription under<g ref="char:EOLhyphen"/>neath,
+<q>PER TELA, PER UNDAS.</q>
+                     <q>Through Fire and Seas.</q>
+                  </p>
+               </div>
+               <div n="10" type="illustration">
+                  <pb n="22" facs="tcp:66330:24"/>
+                  <head>FIGURE X.</head>
+                  <p>The Tenth Figure delineates a Caſtle that was Attacked on every ſide by Shallops fill'd with Soldiers, with theſe words under<g ref="char:EOLhyphen"/>neath,
+<q>AUDENTES DEUS IPSE JUVAT.</q>
+                     <q>The Bold and Daring God himſelf Aſſiſts.</q>
+                  </p>
+                  <p>To ſhew that there is nothing too difficult for a Couragious <hi>Hero,</hi> that undertakes a Glorious Enterprize, with a firm Aſſurance of Divine Aſſiſtance.</p>
+               </div>
+               <div n="10" type="illustration">
+                  <pb facs="tcp:66330:24"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of castle attacked by sea</figDesc>
+                        <head>Fig: 10.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="11" type="illustration">
+                  <pb facs="tcp:66330:25"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of the forming of a confederacy</figDesc>
+                        <head>Fig: 11.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="11" type="illustration">
+                  <pb n="23" facs="tcp:66330:25"/>
+                  <head>FIGURE XI.</head>
+                  <p>The Eleventh Figure repreſents the Con<g ref="char:EOLhyphen"/>federacy enter'd into by ſeveral Hero's, that is to ſay, Prince <hi>William</hi> of <hi>Naſſau,</hi> H. L. M. together with his Valiant Brothers, out of an Unſhaken and Magnanimous Reſolution to De<g ref="char:EOLhyphen"/>liver the Low Countries from the Tyranny under which they groan'd, and which they perform'd with an Undaunted Proweſs; with this Impreſe,
+<q>RES POSCIT OPEM, ET CON<g ref="char:EOLhyphen"/>SPIRANT AMICE.</q>
+                     <q>The Exigency calls for ſpeedy Aid, and friendly they Conſpire to give it.</q>
+                  </p>
+               </div>
+               <div n="12" type="illustration">
+                  <pb n="24" facs="tcp:66330:26"/>
+                  <head>FIGURE XII.</head>
+                  <p>In the Twelfth Figure was Pictured a Wo<g ref="char:EOLhyphen"/>man with her Hair about her Ears, repre<g ref="char:EOLhyphen"/>ſenting <hi>Deſpair;</hi> a roaring Lyon at her Feet, ſignifying <hi>Holland,</hi> and the Condition to which ſhe was reduced at that time by the Tyranny of <hi>Spain,</hi> eſpecially in the Year 1572. when ſhe was almoſt hopeleſs of all Hu<g ref="char:EOLhyphen"/>man Succour; and under the Figure this Motto,
+<q>PATIENTIA LAESA FUROR EST.</q>
+                     <q>Patience Injur'd turns to Fury.</q>
+                  </p>
+               </div>
+               <div n="12" type="illustration">
+                  <pb facs="tcp:66330:26"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of a woman beside a broken pillar, soldiers nearby</figDesc>
+                        <head>Fig: 12.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="13" type="illustration">
+                  <pb facs="tcp:66330:27"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Jupiter threatening people from the sky</figDesc>
+                        <head>Fig: 13.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="13" type="illustration">
+                  <pb n="25" facs="tcp:66330:27"/>
+                  <head>FIGURE XIII.</head>
+                  <p>The Thirteenth Figure repreſents a <hi>Jupiter</hi> in the Air ſitting upon an Eagle that ſeems to fly with a rapid ſwiftneſs. At the ſame time, the whole Sky appears to be fill'd with dusky Clouds, darting nothing but Thunder and Lightning upon the Debaucheries of <hi>Babylon.</hi> Underneath appears a Woman all over<g ref="char:EOLhyphen"/>whelm'd with Sorrow and Sadneſs, repreſent<g ref="char:EOLhyphen"/>ing the Miſerable Condition of <hi>Holland</hi> at that time. She is attended with Seven Virgins, that ſignifie the Seven United Provinces, ſtretch<g ref="char:EOLhyphen"/>ing forth their Hands one to another, and con<g ref="char:EOLhyphen"/>ſulting by what means to alter the ſad and lamentable State of their Affairs into a Poſture of Proſperity and Gladneſs, according to the Common Motto,
+<q>CONCORDIA RES PARVAE CRESCUNT.</q>
+                     <q>Concord advances Low Beginnings.</q>
+                  </p>
+               </div>
+               <div n="14" type="illustration">
+                  <pb n="26" facs="tcp:66330:28"/>
+                  <head>FIGURE XIV.</head>
+                  <p>The Fourteenth Figure deſcribes a Perſon, to whom is Preſented a Cap or Bonnet of Freedom, holding in his Hand the Arms of <hi>Holland,</hi> which is a Lion. To ſignifie the Change that happen'd in the Year 1672. at what time the States of <hi>Holland</hi> Preſented to <hi>William</hi> III. now King of <hi>England,</hi> the Govern<g ref="char:EOLhyphen"/>ment of the Provinces, and the Adminiſtra<g ref="char:EOLhyphen"/>tion of the Military Affairs: and after what man<g ref="char:EOLhyphen"/>ner he accepted of them, and took his Oath of Fidelity. In the ſame Figure is alſo Preſented to him a Sword and a Pair of Scales; to ſhew that Juſtice ought to be Adminiſtred without Exception of Perſons. At the bottom of the Figure are a great Number of Perſons of all Ages ready to aſſiſt him with Money in ſuch a Conjuncture and Time of Need as that was.</p>
+                  <p>And above, is alſo to be ſeen the Temple of Juſtice.</p>
+               </div>
+               <div n="14" type="illustration">
+                  <pb facs="tcp:66330:28"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of William III accepting government of Holland</figDesc>
+                        <head>Fig: 14.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="15" type="illustration">
+                  <pb facs="tcp:66330:29"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of birth of William III</figDesc>
+                        <head>Fig: 15.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="15" type="illustration">
+                  <pb n="27" facs="tcp:66330:29"/>
+                  <head>FIGURE XV.</head>
+                  <p>The Fifteenth Figure ſhadows forth the Birth of <hi>William</hi> III. wherein is to be ſeen a Virgin holding a Shield with a Stork Painted upon it, which repreſents the <hi>Hague,</hi> the Place of the Prince's Nativity. Cloſe by the Laver ſtands a Lyon ſtedfaſtly beholding the Infant. To ſhew that <hi>Holland,</hi> which is ſignified by the Lyon, was greatly concern'd for the Birth of the Prince. In the middle of the <hi>Plate</hi> ſtand Three Figures, one of which points up to Heaven with one of her Fingers, having be<g ref="char:EOLhyphen"/>fore her a little Box fill'd with pretious Odours, the Perfumes of which aſcend to the Sky, be<g ref="char:EOLhyphen"/>tokening Religion and Divine Worſhip, which engage us to render the Homage of our Thanks to God for the Birth of the Infant, as a moſt pretious Gift beſtow'd by Heav'n upon us.</p>
+               </div>
+               <div n="16" type="illustration">
+                  <pb n="28" facs="tcp:66330:30"/>
+                  <head>FIGURE XVI.</head>
+                  <p>The Sixteenth Figure repreſents the wil<g ref="char:EOLhyphen"/>ling Submiſſion of the Kingdom of <hi>England</hi> to King <hi>William,</hi> and his Conqueſt of <hi>Ire<g ref="char:EOLhyphen"/>land</hi> from King <hi>James.</hi> The Standard, with a Cuiraſs and Helmet at the Top of it, de<g ref="char:EOLhyphen"/>notes King <hi>William</hi>'s Triumphs in <hi>England</hi> over his Enemies.</p>
+                  <p>The other Battoon advanc'd with <hi>WILLIAM</hi> above Three Crowns, and a Dove at the upper End, ſignifies that he had no other In<g ref="char:EOLhyphen"/>tention in Croſſing over into <hi>England</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> than to Protect thoſe that were well Affe<g ref="char:EOLhyphen"/>cted, and to deliver the Proteſtants of thoſe Kingdoms from the Tyranny under which they groan'd. And the Buckler with the Lyon upon it denotes, That <hi>Holland</hi> had a great ſhare in the Expedition, notwithſtanding the Great Damages ſhe had ſuſtain'd but a little before, both by Sea and Land.</p>
+               </div>
+               <div n="16" type="illustration">
+                  <pb facs="tcp:66330:30"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving representing William III's triumphs in England and Ireland</figDesc>
+                        <head>Fig: 16.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="17" type="illustration">
+                  <pb facs="tcp:66330:31"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving representing joy following the truce in 1684</figDesc>
+                        <head>Fig. 17.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="17" type="illustration">
+                  <pb n="29" facs="tcp:66330:31"/>
+                  <head>FIGURE XVII.</head>
+                  <p>The Seventeenth Figure ſets forth the Uni<g ref="char:EOLhyphen"/>verſal Joy that all <hi>Europe</hi> received by the Truce for Twenty Years, in 1684. tho' it laſted not long. To which purpoſe you ſee <hi>Bacchus</hi> ſeated upon a large Tun, to whom others make their Preſents, as deſirous to partake in the General Jubilee. <hi>Liberty</hi> Triumphs, and <hi>Pallas</hi> makes one of the Number.</p>
+                  <p>In another part of the Figure, four War<g ref="char:EOLhyphen"/>riours ſeem to joyn their Bucklers together in token of Harmonious Unity.</p>
+                  <p>In another part ſits <hi>Hatred</hi> in a furious Po<g ref="char:EOLhyphen"/>ſture upon the Ground, and enraged to ſee <hi>Peace</hi> deſcending upon the Earth, would fain cut the Band of Union with the Sciſſors which ſhe holds in her Hand.</p>
+               </div>
+               <div n="18" type="illustration">
+                  <pb n="30" facs="tcp:66330:32"/>
+                  <head>FIGURE XVIII.</head>
+                  <p>The Eighteenth Figure ſhews an Amazon ſeated upon a Trophy of Arms, with a Helmet and Plume of Feathers upon her Head, holding in the one Hand a Pike, and a Helmet in the other. On the one ſide of her appear ſeve<g ref="char:EOLhyphen"/>ral Souldiers arm'd Cap-a-Pe; and on the other ſide two Perſons giving to each other their Hands, with certain Ships appearing over head at a diſtance; To ſignifie, that after the Rupture of a Truce or Alliance, it behoves a Nation to betake themſelves again to their Arms without loſing time, for fear of expoſing themſelves by a pernicious delay to the Sur<g ref="char:EOLhyphen"/>priſes of the War; and to put themſelves into a Poſture of Action both by Sea and Land, which is the good Counſel hinted in the fol<g ref="char:EOLhyphen"/>lowing Motto,
+<q>
+                        <p>REPETENDA QUIESCANT,</p>
+                     </q>
+                     <q>
+                        <l>Lay thoughts of Peace aſide,</l>
+                        <l>And Arms and Men provide.</l>
+                     </q>
+                  </p>
+               </div>
+               <div n="18" type="illustration">
+                  <pb facs="tcp:66330:32"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Amazon seated on trophy of arms</figDesc>
+                        <head>Fig: 18.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="19" type="illustration">
+                  <pb facs="tcp:66330:33"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of the Battle of Flanders</figDesc>
+                        <head>Fig: 19.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="19" type="illustration">
+                  <pb n="31" facs="tcp:66330:33"/>
+                  <head>FIGURE XIX.</head>
+                  <p>This Figure is a Proſpect of the Famous Battel fought in <hi>Flanders</hi> between Prince <hi>Mau<g ref="char:EOLhyphen"/>rice</hi> and the Spaniards, under the Leading of Duke <hi>Albert;</hi> wherein after a long and ob<g ref="char:EOLhyphen"/>ſtinate Fight, the Prince became the Victor, and took Eight hundred Captains, all Gentle<g ref="char:EOLhyphen"/>men, Priſoners. This Battel was fought the Second of <hi>July,</hi> New Style, the ſame Month and Day, that about Three hundred and two Years before, the Emperor <hi>Adolphus</hi> of <hi>Naſſau</hi> was Defeated by Duke <hi>Albert</hi> of <hi>Austria.</hi> Underneath was written, <q>NON UNO VIRTUS CONTEN<g ref="char:EOLhyphen"/>TA TRIUMPHO.</q>
+                     <q>Not ſatisfied with ſingle Triumph.</q>
+                  </p>
+               </div>
+               <div n="20" type="illustration">
+                  <pb n="32" facs="tcp:66330:34"/>
+                  <head>FIGURE XX.</head>
+                  <p>This Figure calls to remembrance one of the moſt Remarkable Combats that are to be read of in Hiſtory: which was called the Battel of <hi>Furnhout,</hi> wherein Prince <hi>Maurice</hi> with only 800 Horſe, not only ſuſtain'd the Charge of Four Veterane Regiments, Ger<g ref="char:EOLhyphen"/>mans, Spaniards, Walloons and Italians, but charg'd 'em with that Extraordinary Vigour, that he laid Two thouſand Eight hundred dead upon the Place, took Six hundred Priſoners, and brought away Eight Colours, which were all Hung up in the Great Hall at the <hi>Hague.</hi> This was done uyon the 24th of <hi>January,</hi> in the Year 1667. At the Bottom was this In<g ref="char:EOLhyphen"/>ſcription,
+<q>FORTIS PROMISSA JUVENTAE.</q>
+                     <q>The Fruits of Daring Youth.</q>
+                  </p>
+               </div>
+               <div n="20" type="illustration">
+                  <pb facs="tcp:66330:34"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Battle of Furnhout</figDesc>
+                        <head>Fig: 20.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="21" type="illustration">
+                  <pb facs="tcp:66330:35"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of a battle</figDesc>
+                        <head>Fig: 21.</head>
+                     </figure>
+                  </p>
+                  <pb facs="tcp:66330:35"/>
+               </div>
+               <div n="22" type="illustration">
+                  <pb facs="tcp:66330:36"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving representing Dutch dominion in the Indies</figDesc>
+                        <head>Fig: 22.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="22" type="illustration">
+                  <pb n="33" facs="tcp:66330:36"/>
+                  <head>FIGURE XXII.</head>
+                  <p>The 22d Figure ſets before your Eyes two Indians with their Hands manacled behind their Backs. On the one ſide ſtands a Sol<g ref="char:EOLhyphen"/>dier with a Sword in his Hand, as it were Inſulting over the Captive; And on the other ſide, in the ſame Poſture, another Soldier with an Enſign diſplay'd, denoting ſome Impor<g ref="char:EOLhyphen"/>tant Conqueſt. And no queſtion this Figure was ſet up to ſhevv, that the Dutch had ex<g ref="char:EOLhyphen"/>tended their Dominion by the Force of their Arms, even to the remote Regions of the <hi>Indies:</hi> which is fairly intimated by this Im<g ref="char:EOLhyphen"/>preſe,
+<q>ULTRA GARAMANTES Et INDOS.</q>
+                     <q>Beyond the <hi>Garamants</hi> and Indians.</q>
+                  </p>
+               </div>
+               <div n="23" type="illustration">
+                  <pb n="34" facs="tcp:66330:37"/>
+                  <head>FIGURE XXIII.</head>
+                  <p>The 23d Figure is the Repreſentation of a Battel fought not far from <hi>Bergopſom</hi> be<g ref="char:EOLunhyphen"/>tween the Spaniards and Prince <hi>Maurice</hi>'s Army, the 4th of <hi>September</hi> 1643, wherein the Hollanders won a Conſiderable Victory<g ref="char:punc">▪</g> and took above Four hundred Priſoners from the Enemy; Expreſs'd by the following Impreſe,
+<q>CRESCUNT, NUMERO CRESCENTE, TROPHAEA.</q>
+                     <q>Number of Victories augment the Trophies.</q>
+                  </p>
+               </div>
+               <div n="23" type="illustration">
+                  <pb facs="tcp:66330:37"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Battle of Bergopsom</figDesc>
+                        <head>Fig: 23.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="24" type="illustration">
+                  <pb facs="tcp:66330:38"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Siege of Geertruydenbergh</figDesc>
+                        <head>Fig: 24.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="24" type="illustration">
+                  <pb n="35" facs="tcp:66330:38"/>
+                  <head>FIGURE XXIV.</head>
+                  <p>This Figure Illuſtrates the Siege and Taking of <hi>Geertruydenbergh</hi> by Prince <hi>Maurice.</hi> This Siege began the 15th of <hi>March</hi> in the Year 1653. and ended by the Surrender of the Town upon the 15th of <hi>June</hi> in the ſame Year. The Inſcription underneath was this;
+<q>DEOS IN PRAELIA CONFERT.</q>
+                     <q>He joyns the Gods his Adjutants in Battel.</q> To ſhew how much that Renowned Prince always rely'd upon the Aſſiſtance of Heaven, whoſe Aid he ſtill moſt ardently implor'd, when ever he undertook any Enterpriſe of Importance.</p>
+               </div>
+               <div n="25" type="illustration">
+                  <pb n="36" facs="tcp:66330:39"/>
+                  <head>FIGURE XXV.</head>
+                  <p>The 25th Figure comprehends a Pyramid erected upon a Pedeſtal, upon which there is a Piece of Painting with this Deviſe,
+<q>THURE TUO REDOLENT ARAE.</q>
+                     <q>Our Altars with thy Incenſe ſmoak.</q>
+                  </p>
+                  <p>The Aſcent of the Pyramid is embelliſh'd with Three ſeveral Pictures; of which the one is an Emblem, the other two certain Trophies, and Queen <hi>Mary</hi>'s Name in Cipher: and at the Top of the Pyramid the Queen her ſelf is plac'd, as big as the Life, with this Inſcrip<g ref="char:EOLhyphen"/>tion below,
+<q>REPRIMIT ET REFIGIT.</q>
+                     <q>She both Repreſſes and Refixes.</q>
+                  </p>
+               </div>
+               <div n="25" type="illustration">
+                  <pb facs="tcp:66330:39"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of pyramid</figDesc>
+                        <head>Fig: 25.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="26" type="illustration">
+                  <pb facs="tcp:66330:40"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of pyramid</figDesc>
+                        <head>Fig: 26.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="26" type="illustration">
+                  <pb n="37" facs="tcp:66330:40"/>
+                  <head>FIGURE XXVI.</head>
+                  <p>The 26th Figure diſcovers another Pedeſtal containing this Inſcription,
+<q>HANC ACCIPE, MAGNE, CORONAM.</q>
+                  </p>
+                  <p>It is alſo adorn'd with three more Pieces of Painting; that is to ſay, a Deviſe, an Altar ſmoaking with Incenſe, and the King's Name in Cipher: The upper part of the Pyramid is adorn'd with Foliage, and Groteſco work, and at the top of all ſtands the King as big as the Life; with this Inſcription below,
+<q>QUIS GRATIOR APPULIT ORIS?</q>
+                     <q>More welcom who, to theſe our Coaſts?</q>
+                  </p>
+               </div>
+               <div n="27" type="illustration">
+                  <pb n="38" facs="tcp:66330:41"/>
+                  <head>FIGURE XXVII.</head>
+                  <p>This Figure ſhews you a Perſon with a Glory about his Head, a Bow in his Hand, and a Youth ſtanding by him with a Qui<g ref="char:EOLhyphen"/>ver full of Arrows under his Arm. At his Feet ſit Three of the Muſes, <hi>Clio, Urania,</hi> and <hi>Polyhimne,</hi> to ſhew that all the Deſigns and Atchievements of vertuous Princes aim at Heaven, and conſequently that King <hi>William</hi>'s Enterpriſes had Crown'd him with Immor<g ref="char:EOLhyphen"/>tality. Beſides that <hi>Apollo</hi> was no leſs famous for Killing Tyrants with his Bow and Arrows, than for any of his other Vertues.</p>
+               </div>
+               <div n="27" type="illustration">
+                  <pb facs="tcp:66330:41"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Apollo and muses</figDesc>
+                        <head>Fig: 27.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="28" type="illustration">
+                  <pb facs="tcp:66330:42"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Hercules fighting a dragon</figDesc>
+                        <head>Fig: 28.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="28" type="illustration">
+                  <pb n="39" facs="tcp:66330:42"/>
+                  <head>FIGURE XXVIII.</head>
+                  <p>The 28th Figure expoſes to our View a <hi>Hercules</hi> Trampling upon a Dragon, with his Club heav'd up to knock that Furious Mon<g ref="char:EOLhyphen"/>ſter on the Head. To ſhew the Preparations of the King of <hi>England</hi> to ſuppreſs the Ty<g ref="char:EOLhyphen"/>ranny of the Common Enemy, that threatens the Deſtruction of all <hi>Europe;</hi> and whom the King oppoſes not only by his Prudent Conduct, but by Powerful Muſters of his Forces.</p>
+               </div>
+               <div n="29" type="illustration">
+                  <pb n="40" facs="tcp:66330:43"/>
+                  <head>FIGURE XXIX.</head>
+                  <p>The 29th Figure is the Repreſentation of an Armed Amazon, holding a Gorgon's Head in her left Hand. To ſhew the Fear and Dread of the Common-Enemy, who now be<g ref="char:EOLhyphen"/>gan to tremble at the formidable Counte<g ref="char:EOLhyphen"/>nance of the Preſent War, much more Dreadful and Killing than it was before; as alſo to ſignifie that the Confederates were reſolv'd to be no leſs united than the Gor<g ref="char:EOLhyphen"/>gons, who had but one Eye and one Tooth among 'em.</p>
+               </div>
+               <div n="29" type="illustration">
+                  <pb facs="tcp:66330:43"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of armed Amazon</figDesc>
+                        <head>Fig: 29.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="30" type="illustration">
+                  <pb facs="tcp:66330:44"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Neptune and Thetis in shell-chariot</figDesc>
+                        <head>Fig: 30.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="30" type="illustration">
+                  <pb n="41" facs="tcp:66330:44"/>
+                  <head>FIGURE XXX.</head>
+                  <p>In the 40th Figure appears a <hi>Neptune</hi> Drawn in a fair Scallop-Shell by two Hor<g ref="char:EOLhyphen"/>ſes, with the Goddeſs <hi>Thetis</hi> ſitting by him, and underneath this Inſcription,
+<q>MEA JURA TUERE.</q>
+                     <q>Maintain my Rights.</q>
+                  </p>
+               </div>
+               <div n="31" type="illustration">
+                  <pb n="42" facs="tcp:66330:45"/>
+                  <head>FIGURE XXXI.</head>
+                  <p>The 31ſt Figure is the Repreſentation of a Woman over-whelm'd with Grief, ſtretching forth her Hands in a Poſture of Deſpair, and crying out,
+<q>ERIPE RAPTORI MISERAM</q>
+                     <q>Reſcue a Miſerable Creature from the Raviſher.</q>
+                  </p>
+                  <p>To ſignifie the Unfortunate Condition of <hi>Europe</hi> environ'd on every ſide by Thieves and Murderers that Rob her of her Peace and Tranquillity, while ſhe lyes altogether help<g ref="char:EOLhyphen"/>leſs, and can find no way to ſhelter herſelf from their Violences.</p>
+               </div>
+               <div n="31" type="illustration">
+                  <pb facs="tcp:66330:45"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of despairing woman</figDesc>
+                        <head>Fig: 31.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="32" type="illustration">
+                  <pb facs="tcp:66330:46"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Battle of Boyne</figDesc>
+                        <head>Fig: 32.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="32" type="illustration">
+                  <pb n="43" facs="tcp:66330:46"/>
+                  <head>FIGURE XXXII.</head>
+                  <p>This Figure repreſents the Memorable Bat<g ref="char:EOLhyphen"/>tel which King <hi>William</hi> won over King <hi>James</hi>'s Army at the Paſſage of the <hi>Boyne</hi> in <hi>Ireland,</hi> where the Rebels were utterly defeated, lo<g ref="char:EOLhyphen"/>ſing all their Baggage, and a great Number of Men ſlain upon the Place. Never was Battel of Greater Importance, in regard that upon the Succeſs of that Combat depended the Happineſs of <hi>Europe.</hi> Here we behold the King according to his uſual Cuſtom, appearing at the Head of his Men, never heſitating to expoſe his Life to the greateſt of Dangers, when he deem'd it neceſſary for the Welfare of his Subjects and his Allies.</p>
+               </div>
+               <div n="33" type="illustration">
+                  <pb n="44" facs="tcp:66330:47"/>
+                  <head>FIGURE XXXIII.</head>
+                  <p>The firſt Thing that ſtrikes the Sight in this Piece is a <hi>Hercules</hi> half naked, bearing his Club upon his Shoulders. He marches along, ſetting his Feet ſtrongly to the Ground, and with a daring Courage, toward his Enemy <hi>Achelous,</hi> who not finding himſelf able to En<g ref="char:EOLhyphen"/>counter him, took upon himſelf the ſhape of a Bull. The Virgins behind him are making Garlands and Poſies of various Flowers to Crown him at his Return from the Combat, in token of their Joy for the Victory he had won: others are to be ſeen Playing in Con<g ref="char:EOLhyphen"/>ſort upon ſeveral Muſical Inſtruments, to Ce<g ref="char:EOLhyphen"/>lebrate the Triumph of their Victorious Pre<g ref="char:EOLhyphen"/>ſerver.</p>
+                  <p>To ſignifie that the Proſperous Succeſſes of King <hi>William</hi> in <hi>England,</hi> were ſuch as merited a Triumphal Reception by the People of <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> at his Return to the <hi>Hague.</hi>
+                  </p>
+               </div>
+               <div n="33" type="illustration">
+                  <pb facs="tcp:66330:47"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Hercules and virgins</figDesc>
+                        <head>Fig: 33.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="34" type="illustration">
+                  <pb facs="tcp:66330:48"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Perseus battling for Andromeda</figDesc>
+                        <head>Fig: 34.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="34" type="illustration">
+                  <pb n="45" facs="tcp:66330:48"/>
+                  <head>FIGURE XXXIV.</head>
+                  <p>The Battel repreſented in this Figure ſeems to be very Bloody, while all the Combatants fought hand to hand with Javelins and Buck<g ref="char:EOLhyphen"/>lers. This was the Battel which <hi>Perſeus</hi> fought with his Rival that would have forc'd his Mi<g ref="char:EOLhyphen"/>ſtreſs <hi>Andromeda</hi> from him, whom he had de<g ref="char:EOLhyphen"/>liver'd but a little before from the Whale that was to have devour'd her. See, how he pierces the Sides of his Enemies with his Lance, and at length enjoys the Poſſeſſion of his Beloved, by a Marriage which he had procur'd at the Price of ſo many Dan<g ref="char:EOLhyphen"/>gers.</p>
+               </div>
+               <div n="35" type="illustration">
+                  <pb n="46" facs="tcp:66330:49"/>
+                  <head>FIGURE XXXV.</head>
+                  <p>The Second large Figure is another Trium<g ref="char:EOLhyphen"/>phal Arch, a Piece of beautiful Architecture, ſupported both before and behind by red Mar<g ref="char:EOLhyphen"/>ble Pillars, the reſt of the Structure being of black and white Marble; the Baſes and Chap<g ref="char:EOLhyphen"/>ters are Gilt, and adorn'd with four Large Pictures, Painted in moſt Lively Colours; two on the fore part, and two on the hinder ſide. Uyon the Top of this Triumphal Arch upon a fair Pedeſtal, is to be ſeen the Statue of the King a Horſeback reſembling the colour of Braſs, as big as the Life; And round the Pe<g ref="char:EOLhyphen"/>deſtal theſe words,
+<q>REGI TRIUMPHANTI.</q>
+                     <q>To the Triumphant King.</q> Above the King thus ſitting a Horſeback, are to be ſeen two Arches thwarting one another, and over them, a Crown and two-Scepters laid a-croſs.</p>
+                  <figure>
+                     <figDesc>engraving of triumphal arch</figDesc>
+                     <head>Fig: 30 *</head>
+                  </figure>
+                  <p>And on the other ſide,
+<q>IN REPRIMENDA TYRANNIDE ET RESTITUENDA SECULI FAELICITATE.</q>
+                     <q>In Suppreſſing Tyranny, and Reſtoring the Felicity of the Age.</q>
+                  </p>
+                  <p>On the Right ſide of the ſame Border were to be read theſe words,
+<q>HEROUM PRIORI.</q>
+                     <q>To the Chief of Hero's.</q>
+                  </p>
+                  <pb n="48" facs="tcp:66330:52"/>
+                  <p>On the Left ſide,
+<q>ANTIQUIS MAJORI,</q>
+                     <q>And Greater than his Anceſtors.</q>
+                  </p>
+                  <p>On the ſide of the Pedeſtal where the King Rides, toward the Upper End, are to be ſeen two Curraſſes gilt, and two cover'd with Silver, together with ſeveral other Arms, in the manner of Trophies. In the Fore-part ſtand the Arms of <hi>England,</hi> and upon the Hinder-part the King's Cipher.</p>
+                  <p>On each ſide of this Arch are Erected two Wings, adorn'd with Paintings both before and behind, repreſenting various Stories of <hi>Hercules, Perſeus, Andromeda</hi> and <hi>Phaeton;</hi> as ſhall be afterwards more amply deſcrib'd.</p>
+                  <p>At the Bottom of the Arch in the Fore<g ref="char:EOLhyphen"/>part, theſe words were diſplay'd by the Glit<g ref="char:EOLhyphen"/>tering of the Lights,
+<q>SCEPTRIS EXERCITIBUS, CLASSIBUS, VOTIS.</q>
+                  </p>
+                  <pb n="49" facs="tcp:66330:52"/>
+                  <p>On the Hinder Part,
+<q>AUGUSTO, ARMATO, PARATO RECEPTO.</q>
+                  </p>
+                  <p>Which was thus to be read,
+<q>AUGUSTO SCEPTRIS, ARMATO EX<g ref="char:EOLhyphen"/>ERCITIBUS, PARATO CLASSIBUS, RECEPTO VOTIS.</q>
+                     <q>To the Auguſt in Empire, environ'd with Ar<g ref="char:EOLhyphen"/>mies, Potent in Fleets, Received with all Men's Wiſhes.</q>
+                  </p>
+                  <p>And upon the Frontiſpiece ſtood this In<g ref="char:EOLhyphen"/>ſcription,
+<q>HAGA POSUIT COSS. DECRETO.</q>
+                     <q>The <hi>Hague</hi> Erected this by Order of the Magiſtrates.</q>
+                  </p>
+               </div>
+               <div n="36" type="illustration">
+                  <pb n="50" facs="tcp:66330:53"/>
+                  <head>FIGURE XXXVI.</head>
+                  <p>The 36th Figure is the Repreſentation of two Naval Engagements, in both which there was much Blood ſpilt, between the Hol<g ref="char:EOLhyphen"/>landers, and the Engliſh and French then in Confederacy.</p>
+               </div>
+               <div n="36" type="illustration">
+                  <pb facs="tcp:66330:53"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of naval battle</figDesc>
+                        <head>Fig: 36.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="37" type="illustration">
+                  <pb facs="tcp:66330:54"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of naval battle in the Downs</figDesc>
+                        <head>Fig: 37.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="37" type="illustration">
+                  <pb n="51" facs="tcp:66330:54"/>
+                  <head>FIGURE XXXVII.</head>
+                  <p>The 37th Figure repreſents the Famous Sea-Fight in the <hi>Downs,</hi> between the Spaniards and the famous Dutch Admiral <hi>Martin Herperts Tromp</hi> in the Year 1639. wherein the Spaniards loſt all their Fleet but Eighteen Ships, to the great Amazement of all Men at that time.</p>
+               </div>
+               <div n="38" type="illustration">
+                  <pb n="52" facs="tcp:66330:55"/>
+                  <head>FIGURE XXXVIII.</head>
+                  <p>This Piece of Painting ſets forth what paſs'd at the Nuptials of <hi>Perſeus</hi> and <hi>Andro<g ref="char:EOLhyphen"/>meda;</hi> at what time the Friends of his Rival whom he had Slain, reſolving to revenge his Death, brake into the Feſtival Room. But their Inſolence remain'd not long unpuniſh'd: For <hi>Perſeus</hi> recovering his Shield, upon which was Painted <hi>Meduſa</hi>'s Head, partly ſlew, partly chang'd into Stone all that oppos'd him. By this Emblem we are given to under<g ref="char:EOLhyphen"/>ſtand what befel the King of <hi>England,</hi> who thinking to have liv'd in the Quiet Poſſeſſion of his Three Kingdoms, yet met with many ſecret and open Enemies. But his Generoſity, together with his Extraordinary Prudence will find a way to fruſtrate all their Wicked and Malicious Deſigns.</p>
+               </div>
+               <div n="38" type="illustration">
+                  <pb facs="tcp:66330:55"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Perseus and Andromeda's wedding</figDesc>
+                        <head>Fig: 38.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="39" type="illustration">
+                  <pb facs="tcp:66330:56"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Phaeton in sun-chariot</figDesc>
+                        <head>Fig 39</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="39" type="illustration">
+                  <pb n="53" facs="tcp:66330:56"/>
+                  <head>FIGURE XXXIX.</head>
+                  <p>Here is a Man riding through the Air in a Chariot drawn by four Horſes, which he guides himſelf. Beneath, appears another Man laid ſprawling upon the Earth by dint of Sword; denoting the Triumph of <hi>Phaeton,</hi> after he had put to Death the moſt Cruel of his Adver<g ref="char:EOLhyphen"/>ſaries.</p>
+                  <p>This Emblem alſo alludes to the Happy Succeſs of the King of <hi>England,</hi> after he had once undertaken to ſubdue the moſt Formida<g ref="char:EOLhyphen"/>ble of his Enemies.</p>
+               </div>
+               <div n="40" type="illustration">
+                  <pb n="54" facs="tcp:66330:57"/>
+                  <head>FIGURE XL.</head>
+                  <p>In the firſt place, you are to obſerve in this Figure, a Woman with a Helmet and Plume of Feathers on her Head, holding a Cap of Main<g ref="char:EOLhyphen"/>tenance or Bonnet of Freedom in her Hand. Another Woman takes her by the other Hand, with an Intention to lead her to the Temple, there to render Thanks to Heaven for the Peace they have obtain'd. As ſhe paſſes along ſhe points down to a Virgin penſive and full of Sorrow, leaning upon a Shield with a Lyon painted upon it, at whoſe Feet lye ſeveral miſerable Creatures, ſome of which ſtretch forth their Hands, as a mark of their being highly affected with the happy occaſion of the other's Joy, which was the general Delivery of <hi>Europe</hi> from Slavery. At a diſtance appear ſe<g ref="char:EOLhyphen"/>veral Armed men ſurrounding an Altar, where they are giving Thanks to Heaven ſo ther ſame Felicity.</p>
+               </div>
+               <div n="40" type="illustration">
+                  <pb facs="tcp:66330:57"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of two women, one armed</figDesc>
+                        <head>Fig 40</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="41" type="illustration">
+                  <pb facs="tcp:66330:58"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of globe in flames</figDesc>
+                        <head>Fig: 41.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="41" type="illustration">
+                  <pb n="55" facs="tcp:66330:58"/>
+                  <head>FIGURE XLI.</head>
+                  <p>This Figure repreſents the Globe of the World ſwarming with Villains and Murderers, and where Fraud and Breach of Faith are ram<g ref="char:EOLhyphen"/>pant in every corner of it. In one part it is all enflam'd with the Fire of War: and in ano<g ref="char:EOLhyphen"/>ther part of the Figure ſtands a Woman hood<g ref="char:EOLhyphen"/>winkt, with a Sword in her Right Hand, and a Pair of Scales in the other, repreſenting Ju<g ref="char:EOLhyphen"/>ſtice: on the other ſide appears another Wo<g ref="char:EOLhyphen"/>man with a Gorgons Head in her Hand, de<g ref="char:EOLhyphen"/>noting the Common Cauſe of the Confede<g ref="char:EOLhyphen"/>rates, and ſignifying that Juſtice and a Good Cauſe are like <hi>Meduſa</hi>'s Face, ſubduing and turning into Stones all the vain Oppoſers of Truth, and the Regular Order of the World. There are alſo to be ſeen a great Number of People ſlain, of which ſome lye dead with their Weapons ſtill in their Hands; denoting ſuch as have receiv'd the Puniſhment of Juſtice for the Violence and Wickedneſs of their A<g ref="char:EOLhyphen"/>ctions.</p>
+               </div>
+               <div n="42" type="illustration">
+                  <pb n="56" facs="tcp:66330:59"/>
+                  <head>FIGURE XLII.</head>
+                  <p>In this Figure you behold a Woman leaning upon a Shield bearing a Lyon Rampant. She ſits upon a heap of Arms, among which lyes another Lyon as it were Guarding and watching over their Preſervation. To ſignifie the Vigi<g ref="char:EOLhyphen"/>lance of <hi>Holland,</hi> which has always made it her chiefeſt care to preſerve and ſecure whatever was entruſted to her Cuſtody. At the upper part of the ſame Piece appear the Portraitures of the King and Queen; and below them a <hi>Mars,</hi> leading to the Temple a Lady that car<g ref="char:EOLhyphen"/>ries a Palm Branch in her hand, To ſignifie, that the Confederates would fain be laying down their Arms, were all their Juſt Deſigns accompliſh'd.</p>
+               </div>
+               <div n="42" type="illustration">
+                  <pb facs="tcp:66330:59"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Mars and women</figDesc>
+                        <head>
+                           <hi>Fig:</hi> 42</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="43" type="illustration">
+                  <pb facs="tcp:66330:60"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of two people standing upon a globe</figDesc>
+                        <head>Fig: 43.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="43" type="illustration">
+                  <pb n="57" facs="tcp:66330:60"/>
+                  <head>FIGURE XLIII.</head>
+                  <p>The two Figures placed upon the uppermoſt part of the Convex of the Terreſtrial Globe, one of which holds in her Hand an Olive-Branch, and the other a Sword, repreſent Peace and Juſtice embracing each other. Be<g ref="char:EOLhyphen"/>neath the Sphere of the Earth ſits <hi>Ceres,</hi> the Goddeſs of Corn, with a <hi>Cornucopia</hi> in her Hand; denoting the Freedom of the Country<g ref="char:EOLhyphen"/>man to Sow and Reap in time of Tranquillity. The Peaſant reſting and ſleeping upon her Knee with a Basket of Fruit in his Lap, alludes to the Plenty and Felicity of Peace; and the Satyrs Drinking and Sporting about her, ſigni<g ref="char:EOLhyphen"/>fie that we are only to expect from a Happy Peace, the Enjoyments of Repoſe and Abun<g ref="char:EOLhyphen"/>dance.</p>
+               </div>
+               <div n="44" type="illustration">
+                  <pb n="58" facs="tcp:66330:61"/>
+                  <head>FIGURE XLIV.</head>
+                  <p>Here <hi>Perſeus</hi> mounted in the Air upon a Flying Horſe, and arm'd to Encounter the Sea Monſter, and reſcue from his Fury <hi>Andromeda,</hi> the Daughter of a King, of whom he was deeply enamour'd, and whom he ſought in Marriage as the Recompence of his Victory, in caſe he ſlew the hideous Monſter that was approaching to devour her, repreſents the King of <hi>England,</hi> who inflam'd with a de<g ref="char:EOLhyphen"/>ſire to reſcue <hi>Holland</hi> from the Violence of her Enemies, and deliver <hi>England</hi> from the Tyran<g ref="char:EOLhyphen"/>ny that threaten'd her utter Deſolation, paſs'd over into that Kingdom to Expel the Greedy Monſter that began to prey upon her Bowels.</p>
+               </div>
+               <div n="44" type="illustration">
+                  <pb facs="tcp:66330:61"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Perseus rescuing Andromeda from the sea monster</figDesc>
+                        <head>Fig: 44.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="45" type="illustration">
+                  <pb facs="tcp:66330:62"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of heroes forming confederacy</figDesc>
+                        <head>Fig: 45.</head>
+                     </figure>
+                  </p>
+                  <pb facs="tcp:66330:62"/>
+               </div>
+               <div n="45 *" type="illustration">
+                  <pb facs="tcp:66330:63"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of triumphal arch</figDesc>
+                        <head>Fig: 45. *</head>
+                     </figure>
+                  </p>
+                  <pb facs="tcp:66330:64"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+               </div>
+               <div n="45" type="illustration">
+                  <pb n="59" facs="tcp:66330:64"/>
+                  <head>FIGURE XLV.</head>
+                  <p>In this Aſſembly of Hero's with Helmets and Plumes of Feathers on their Heads, and every one a Sword in his Hand, which they hold up, and lay athwart one upon another, according to the Manner of the Ancients, who were wont to meet in the Temple of <hi>Vulcan,</hi> and uſe this Ceremony over the Altar, when they enter'd into any ſolemn Confederacy for the Defence of their Country; You have a Proſpect of the Confederacy enter'd into by the Heroick Princes of this Age, and by them confirm'd by all that is moſt Sacred and Invio<g ref="char:EOLhyphen"/>lable. The two Virgins kneeling with their Hands ſtretch'd forth to Heaven, denote the Hopes which the Hero's have of the great Advantages which this confirm'd Alliance will produce.</p>
+                  <p>The Monſter which you behold at the top of the Figure ſet upon on every ſide, and wounded by ſeveral Armed Men, is the Em<g ref="char:EOLhyphen"/>blem of <hi>France.</hi> And the moſt daring and moſt forward of thoſe Champions with a Lyon upon his Shield, repreſents <hi>Holland,</hi> which is always the foremoſt and moſt hardy to attack the common Enemy. To this Figure belong'd two Motto's; of which the firſt was,
+<pb n="60" facs="tcp:66330:65"/>
+                     <q>UNITI FORTIUS OBSTANT.</q>
+                     <q>United they withſtand with greater Force.</q>
+                  </p>
+                  <p>The Following words were ſet over the Figure,
+<q>POST MAXIMAS RES DOMI FORIS<g ref="char:EOLhyphen"/>QUE GESTAS, ARCTISSIMO CUM PRINCIPIBUS ICTO FOEDERE, SUORUM VINDEX, DEFEN<g ref="char:EOLhyphen"/>SOR OPPRESSORUM.</q>
+                     <q>After moſt Renown'd Atchievements perform'd at Home and Abroad, and a ſtrict League confirm'd with Princes unjuſtly wrong'd, the Avenger of his own, and Defender of the Oppreſſed.</q>
+                  </p>
+                  <pb facs="tcp:66330:65"/>
+               </div>
+               <div n="46" type="illustration">
+                  <pb facs="tcp:66330:66"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of William III on horseback</figDesc>
+                        <head>Fig: 46.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="46" type="illustration">
+                  <pb n="61" facs="tcp:66330:66"/>
+                  <head>FIGURE XLVI.</head>
+                  <p>Preſents to our View the King of <hi>England</hi> a Horſeback in his return from <hi>Ireland,</hi> after he had ſubdu'd that Kingdom to his Obedience, carrying a Standard in his Hand, as being an Honour which was always allow'd by the An<g ref="char:EOLhyphen"/>cients to Triumphant Victors. Two Damoſels alſo meet him and preſent him with a Scepter and a Crown, to ſhew, that he was no leſs be<g ref="char:EOLhyphen"/>holden for the Poſſeſſion of that Kingdom to the Good Will and Affection of his People as to his Conquering Arms: and under a <hi>Cornu<g ref="char:EOLhyphen"/>copia</hi> of Silver, ſtands this Inſcription,
+<q>PRAEMIA NON AEQUANT.</q>
+                     <q>The Guerdons are not Equal.</q> To ſignifie that he has ſhew'd ſo much of Ge<g ref="char:EOLhyphen"/>neroſity, Vertue and Prudence in his Conduct, ſince his Aſcending the Throne, that his Three Crowns with all their Riches are but a due Reward of his Merit.</p>
+                  <p>At the Upper End of the Figure hang a Pair of Scales, with a Crown in one Balance, and a Sword in the other; to ſignifie that he has been conſtrain'd to make uſe of
+<pb n="62" facs="tcp:66330:67"/> Force of Arms to gain the Crown which be<g ref="char:EOLhyphen"/>long'd to him. Which is all Epitomiz'd in the following words written over Head.</p>
+                  <q>MARE TRANSUECTUS LIBERAT BRI<g ref="char:EOLhyphen"/>TANNIAM, ET LATE DOMINANTI<g ref="char:EOLhyphen"/>BUS ORNATUS SCEPTRIS IN PA<g ref="char:EOLhyphen"/>TRIAM PUBLICA CUM LAETITIA RECEPTUS EST.</q>
+                  <q>Croſſing the Sea, He ſets <hi>Great Britain</hi> Free, and having obtain'd a ſpacious Empire, is wel<g ref="char:EOLhyphen"/>com'd to his Native Country with the Publick Joy of the People.</q>
+                  <pb facs="tcp:66330:67"/>
+               </div>
+               <div n="47" type="illustration">
+                  <pb facs="tcp:66330:68"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of women burning offerings</figDesc>
+                        <head>Fig: 47.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="47" type="illustration">
+                  <pb n="63" facs="tcp:66330:68"/>
+                  <head>FIGURE XLVII.</head>
+                  <p>In this Figure are to be ſeen ſeveral Virgins going to attend a certain Prieſt who has rais'd an Altar by laying together a Heap of Wood, with an Intention to offer up Oblations for the renowned Houſe of <hi>Orange.</hi> The Figures plac'd about the Temple, repreſent the Four laſt Progenitors of the Reigning Prince. Not far from whence appears a Phoenix burning in the Flames of her Neſt; from the Aſhes of which ariſes a young Phoenix with this Motto,
+<q>PRAELUCET POSTHUMA PROLES.</q>
+                     <q>The Poſthumous Offspring outſhines the Reſt.</q>
+                  </p>
+                  <p>To ſhew that the Reigning King of <hi>England</hi> has advanc'd the Grandeur of his Family more than all his Anceſtors. Intimated in the tacit ſupply of theſe words inſcrib'd upon the Figure,
+<q>CUM PATRIA LANGUERET PRAE TRISTI<g ref="char:EOLhyphen"/>TIA, CUM TOTA EUROPA LACHRIMA<g ref="char:EOLhyphen"/>RET, ET ANTIQUISSIMA NASSONIORUM DOMUS, HEROIBUS MAGNISQUE FOE<g ref="char:EOLhyphen"/>CUNDA PRINCIPIBUS, LUCTUOSIS OB<g ref="char:EOLhyphen"/>RUERETUR TENEBRIS.</q>
+                     <q>When his Native Country lay overwhelm'd with Sorrow, when all <hi>Europe</hi> languiſh'd, and the Ancient Houſe of <hi>Naſſau</hi> fertile in Hero's and great Princes, ſuffer'd a Mournful Ecclipſe.</q>
+                  </p>
+               </div>
+               <div n="48" type="illustration">
+                  <pb n="64" facs="tcp:66330:69"/>
+                  <head>FIGURE XLVIII.</head>
+                  <p>This Figure repreſents the Happy and Joyful Birth of this Great Monarch. The Infant graſps two Serpents, one in one Hand, the other in the t'other, which he kills like a ſecond <hi>Hercules.</hi> To ſignifie that from his tender Years he gave aſſured Marks of that ſame Inbred Genero<g ref="char:EOLhyphen"/>ſity that would enliven him one day to Tri<g ref="char:EOLhyphen"/>umph o'er his Enemies.</p>
+                  <p>The Upper Part of this Figure diſplays a Scepter with Three Crowns, and a Row of large Pearl environing an open Scallop-ſhell, with this Inſcription,
+<q>TENUES ORNANT DIADEMATA CUNAS.</q>
+                     <q>The Cradle of his Infancy ſuch DIADEMS Adorn.</q>
+                  </p>
+                  <p>To ſignifie that the Malice of his Enemies, nor all their Scorn of his Princely Youth could hinder his being Crown'd Monarch of Three Kingdoms, notwithſtanding all their Oppoſition to prevent it.</p>
+                  <p>Not far from this, was another Inſcription in theſe words,
+<q>
+                        <p>
+                           <hi>GULIELMUS POSTHUMOUS, BRITAN<g ref="char:EOLhyphen"/>NORUM ARAUSIONENSIUMQUE</hi>
+                           <pb facs="tcp:66330:69"/>
+                           <figure>
+                              <figDesc>engraving representing birth of William III</figDesc>
+                              <head>Fig: 48.</head>
+                           </figure>
+                           <pb facs="tcp:66330:70"/>
+                           <pb n="65" facs="tcp:66330:70"/> 
+                           <hi>TERTIUS, PATRIAE SPES, REIPUB<g ref="char:EOLhyphen"/>LICAE PALLADIUM.</hi>
+                        </p>
+                        <p>
+                           <hi>William</hi> the Poſthumus, Third of that Name, King of <hi>England,</hi> Prince of <hi>Orange,</hi> the Hope of his Country, Palladium of the Common-weal.</p>
+                     </q>
+                  </p>
+                  <p>To ſignifie that next under God, this Prince is the Only Support upon which the United Provinces rely.</p>
+               </div>
+               <div n="49" type="illustration">
+                  <pb n="66" facs="tcp:66330:71"/>
+                  <head>FIGURE XLIX.</head>
+                  <p>This whole Piece of Workmanſhip is a per<g ref="char:EOLhyphen"/>fect Proſpect of the Roman Triumphs, when their Captains and Emperors made their Pom<g ref="char:EOLhyphen"/>pous Entries into <hi>Rome,</hi> after they had ſigna<g ref="char:EOLhyphen"/>liz'd their Conduct and their Valour by the utter overthrow of their Enemies. All the Booty, the Captives, the Treaſures, the Ele<g ref="char:EOLhyphen"/>phants and Camels follow'd the Triumphal Chariot, in the mid'ſt of the Loud Accla<g ref="char:EOLhyphen"/>mations of the People, who Attended the Victor to the Capitol, there to Pay their Vows to the Gods for all their Favours. So that the Intention of this Piece of Painting was to ſhew the General Hopes of <hi>Europe</hi> in Honour of King <hi>WILLIAM,</hi> now rang'd in the Number of thoſe Victorious Chieftains, no leſs amply ſignify'd in the following Deviſe,
+<q>ATTINGAT SOLIUM JOVIS.</q>
+                     <q>Thus may He reach the Throne of <hi>Jove.</hi>
+                     </q>
+                  </p>
+               </div>
+               <div n="49" type="illustration">
+                  <pb facs="tcp:66330:71"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of a Roman triumph</figDesc>
+                        <head>Fig. 49.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div type="illustration">
+                  <pb facs="tcp:66330:72"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of William III as a boy</figDesc>
+                     </figure>
+                  </p>
+               </div>
+               <div n="50" type="illustration">
+                  <pb n="67" facs="tcp:66330:72"/>
+                  <head>FIGURE L.</head>
+                  <p>The Youth deſcrib'd in this Figure, is the King of <hi>England,</hi> as yet very Young; yet ſuch was his Prudence at thoſe Years, that here he comes to ask Counſel. The Crowns that ſhew themſelves at a diſtance in the Clouds, call to our Remembrance the Crowns that were ſeen in the Air at <hi>Orange,</hi> over the Place where the States of that Principality were Aſſembled in the Years 1665. and 1688. Portending Heaven by that ſame Prodigy foretelling what after<g ref="char:EOLhyphen"/>ward we ſaw fulfill'd by his obtaining the Three Crowns of <hi>England, Scotland</hi> and <hi>Ireland.</hi>
+                  </p>
+                  <p>The Upper Part of this Figure, ſhews ye a young Eagle flying directly againſt the Beams of the Sun, with this Motto,
+<q>TENER ADVERSIS ENITITUR ALIS.</q>
+                     <q>Tho Young, He ſtrives againſt the Sun.</q>
+                  </p>
+                  <pb n="68" facs="tcp:66330:73"/>
+                  <p>This ſame Eaglet repreſents the King of <hi>England;</hi> who, though very Young, with For<g ref="char:EOLhyphen"/>ces far inferiour, adventur'd to make Head againſt the King of <hi>France,</hi> who is here ſignify'd by the ſcorching Rays of the Sun; and over this Figure was this Inſcription,
+<q>PUERUM EXEMPLAR CONSTITUIT.</q>
+                     <q>Heaven ſent a Youth to be our Great Exemplar.</q>
+                  </p>
+                  <pb facs="tcp:66330:73"/>
+               </div>
+               <div n="51" type="illustration">
+                  <pb facs="tcp:66330:74"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Vulcan and Mars assisting champion</figDesc>
+                        <head>Fig: 51.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="51" type="illustration">
+                  <pb n="69" facs="tcp:66330:74"/>
+                  <head>FIGURE LI.</head>
+                  <p>Here <hi>Vulcan</hi> throws ſeveral pieces of Armour upon the Ground before a young Champion mounted a Horſeback, in order to obey the Commands of <hi>Venus. Mars</hi> alſo gives him a Sword in Teſtimony of his Favour and Aſſi<g ref="char:EOLhyphen"/>ſtance in the Wars which he is going to under<g ref="char:EOLhyphen"/>take. Which was all Embelliſh'd with this Inſcription,
+<q>QUI JUVENTUTE STRENUE TRAN<g ref="char:EOLhyphen"/>SACTA, FUNESTIS JACTATUS BEL<g ref="char:EOLhyphen"/>LIS AC DISSIDIIS, IN TANTO RERUM DISCRIMINE.</q>
+                     <q>The ſame ſo ſtrenuous in his Youth, that though turmoyl'd with Diſmal Wars, and Inteſtine Diſcords, yet in this dangerous Condition of Affairs, <hi>&amp;c.</hi>
+                     </q>
+                  </p>
+                  <pb n="70" facs="tcp:66330:75"/>
+                  <p>Which words contain an Epitome of what be<g ref="char:EOLhyphen"/>fel the Prince in his Youth.</p>
+                  <p>At the Upper End of the Figure is to be ſeen a Caſtle ſeated upon a Mountain, at the Foot of which a Pike is fix'd in the Ground, with ſeveral Laurel Branches ſhooting from it; Embelliſh'd with this Motto,
+<q>CONTORTA TRIUMPHOS PORTENDIT.</q>
+                     <q>Lanc'd with a Vigorous Arm it Victory Portends.</q>
+                  </p>
+                  <pb facs="tcp:66330:75"/>
+               </div>
+               <div n="52" type="illustration">
+                  <pb facs="tcp:66330:76"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of hero standing upon a shield</figDesc>
+                        <head>Fig: 52.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="52" type="illustration">
+                  <pb n="71" facs="tcp:66330:76"/>
+                  <head>FIGURE LII.</head>
+                  <p>The 52 Figure repreſents a Hero holding a Battoon of Command in his Hand, with a Helmet and Plume upon his Head. He is ſupported ſtanding upon a Shield by four other Hero's, every one wearing a Helmet and Plume, and environ'd with Armed Sol<g ref="char:EOLhyphen"/>diers; with this Inſcription over head,
+<q>NUTANTIS BELGII, QUA MARI QUA TERRA AD<g ref="char:EOLhyphen"/>MOTUS, IN PRISTINUM DECUS, GUBERNACULI GLORIAM, ARAS ET FO<g ref="char:EOLhyphen"/>COS RESTITUIT.</q>
+                     <q>Where e'er he mov'd by Sea or Land, he reſtor'd the Glorious Government, the RELIGION and Liberty of Tottering <hi>Belgium</hi> to their Priſtin Luſtre.</q>
+                  </p>
+                  <p>This alludes to the Prince of <hi>Orange</hi>'s being reſtor'd to the Government in the Year 1672. according to the Cuſtom of the Ancients, who when they advanc'd any Perſon to Supreme Dignity, uſed to have him born upon a Shield by Four Hero's, that he might be conſpicuous to the People. Which demon<g ref="char:EOLhyphen"/>ſtrates
+<pb n="72" facs="tcp:66330:77"/> to us, that the Prince by vertue of his ancient Dignity reſtor'd, became the Re<g ref="char:EOLhyphen"/>ſtorer of the United Provinces to their Li<g ref="char:EOLhyphen"/>berty, which was in great Jeopardy in the Year 1672. and that the Battoon of Com<g ref="char:EOLhyphen"/>mand belong'd as well to him as to his An<g ref="char:EOLhyphen"/>ceſtors, who had carry'd it before.</p>
+                  <pb facs="tcp:66330:77"/>
+               </div>
+               <div n="53" type="illustration">
+                  <pb facs="tcp:66330:78"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving representing William III and Mary II's marriage</figDesc>
+                        <head>Fig: 53.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="53" type="illustration">
+                  <pb n="73" facs="tcp:66330:78"/>
+                  <head>FIGURE LIII.</head>
+                  <p>The Fifty third Figure fanſies two Perſons ſtanding at the Entrance into a Temple, and next to them on the one ſide <hi>Juſtice,</hi> on the other <hi>Prudence;</hi> which calls to our Remem<g ref="char:EOLhyphen"/>brance the Marriage of the King and Queen Solemniz'd at <hi>London</hi> in the Year 1678. It farther alſo denotes, that the Prince was a Perſonage who would act with Prudence in all his Undertakings, and that at all Times and in all Places he would be a Maintainer of Juſtice.</p>
+                  <q>MERITIS FAMAM EXSUPERANTIBUS TROPHAEIS, PRINCIPI ATAVIS EDI<g ref="char:EOLhyphen"/>TAE REGIBUS, FELICIBUS JUNCTUS HYMENAEIS.</q>
+                  <q>Deſerved Trophies, far exeeeding Fames Report, in happy Wedlock joyn'd him to a lovely Princeſs, ſprung from a long Race of Kings.</q>
+               </div>
+               <div n="54" type="illustration">
+                  <pb n="74" facs="tcp:66330:79"/>
+                  <head>FIGURE LIV.</head>
+                  <p>This Figure repreſents the Solemnities in uſe among the Ancients, when they granted a Tri<g ref="char:EOLhyphen"/>umphal Entry to thoſe that had ſignaliz'd themſelves in any Sea-Engagement. Among the reſt, it was one of their Cuſtoms to take off the Prows from the Ships which they had taken, and after they had hung 'em up in their <hi>Forum,</hi> or Hall of Publick Judicature, which was there<g ref="char:EOLhyphen"/>fore call'd <hi>Roſtra,</hi> they Erected a Statue in per<g ref="char:EOLhyphen"/>petual Honour both of the Victor and the Vi<g ref="char:EOLhyphen"/>ctory. Over head was this Inſcription.</p>
+                  <q>TRIUMPHET IN UNDIS.</q>
+                  <q>May He alſo Triumph upon the Seas.</q>
+               </div>
+               <div n="54" type="illustration">
+                  <pb facs="tcp:66330:79"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Roman naval triumph</figDesc>
+                        <head>Fig: 54.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="55" type="illustration">
+                  <pb facs="tcp:66330:80"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of enthroned Mary II</figDesc>
+                        <head>Fig: 55.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="55" type="illustration">
+                  <pb n="75" facs="tcp:66330:80"/>
+                  <head>FIGURE LV.</head>
+                  <p>The Portraiture in the Upper Part of this Figure ſupported by two little <hi>Cupids,</hi> of which the one holds a Garland of Flowers in his Hand, is the Portraiture of the Queen of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> Underneath ſhe is Painted ſitting on a Throne with a Crown upon her Head, ſur<g ref="char:EOLhyphen"/>rounded with Armed Souldiers. At her Feet ſtand ſeveral other People laden with <hi>Cornu<g ref="char:EOLhyphen"/>copia</hi>'s, and Purſes of Money in their Hands: To ſignifie, That her Subjects accompting themſelves Happy under her Government, are ready to Sacrifice their Lives and Eſtates in her Defence.</p>
+               </div>
+               <div n="56" type="illustration">
+                  <pb n="76" facs="tcp:66330:81"/>
+                  <head>FIGURE LVI.</head>
+                  <p>This Figure that ſurpriz'd the Eyes of the Beholders, repreſents a Lady moſt charmingly Beautiful, yet holding a Sword in her Hand, with a ſtern and menacing Aſpect, and ſur<g ref="char:EOLhyphen"/>rounded with her Armed Guards; to denote the Noble Indignation of the Queen, when ſhe underſtood the Miſcarriage of the Fleet, and the Treachery of thoſe that ſuffer'd the Hollan<g ref="char:EOLhyphen"/>ders to bear the Brunt of the Engagement. At what time one would have thought the Ama<g ref="char:EOLhyphen"/>zonian Age had been reviv'd, while ſhe took a Reſolution to have march'd her ſelf at the Head of her Army againſt her Enemies, had they attempted any Invaſion upon the Coaſts.</p>
+                  <p>At the Bottom of the Figure appear ſeveral Poor People, to whom others are diſtributing Money; to ſignifie Her Majeſties extraordinary Bounty to thoſe that were Wounded in that En<g ref="char:EOLhyphen"/>gagement, and to the Widows and Orphans of thoſe that were Slain.</p>
+               </div>
+               <div n="56" type="illustration">
+                  <pb facs="tcp:66330:81"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Mary II holding sword</figDesc>
+                        <head>Fig: 56.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="57" type="illustration">
+                  <pb facs="tcp:66330:82"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of William crossing the Boyne</figDesc>
+                        <head>Fig: 57.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="57" type="illustration">
+                  <pb n="77" facs="tcp:66330:82"/>
+                  <head>FIGURE LVII.</head>
+                  <p>This Figure delights the Eye with one of the moſt Daring Actions that ever Hiſtory re<g ref="char:EOLhyphen"/>corded; That is to ſay, King <hi>William</hi>'s forcing his Paſſage over the River <hi>Boyn</hi> in <hi>Ireland,</hi> where his Enemies Superior to Him in Num<g ref="char:EOLhyphen"/>ber, and Commanded by King <hi>James</hi> in Per<g ref="char:EOLhyphen"/>ſon, lay entrench'd upon the Banks of the River to Oppoſe Him. But our Couragious Monarch, deeply ſenſible, that he had then a Game to Play, upon the good or bad Succeſs of which depended the Ruin or Proſperity of all <hi>Europe,</hi> as well as of his own Affairs, march'd with an undaunted Proweſs at the Head of his Men, and mauger all the Thun<g ref="char:EOLhyphen"/>der of the Enemies both great and ſmall Shot, Foarded the River, forced their Entrenchments and conſtrain'd 'em to a ſpeedy Flight. Which ſtruck ſuch a Terrour into the Hearts of the Vanquiſht, that the Victory was attended by the Surrender of the Chief City of the Kingdom, and ſeveral other Towns of great Importance, as alſo by the Flight of King <hi>James</hi> himſelf, who durſt not ſtand a ſecond Tryal, but ha<g ref="char:EOLhyphen"/>ſten'd into <hi>France</hi> to ſave one. 'Tis true, ſo great a Courage had like to have coſt the Victor his life: for that two Cannon Bullets very nar<g ref="char:EOLhyphen"/>rowly miſs'd him; one of which came ſo near him, as to graze upon his Shoulder, and raze
+<pb n="78" facs="tcp:66330:83"/> the very Skin it ſelf; and the other carry'd away a piece of his Boot: which was the reaſon that the Report of his Death was ſpread abroad in <hi>France</hi> with that aſſurance, that for Joy of ſuch welcom News they roſe at Midnight in <hi>Paris</hi> to make Bonfires; from whence the glad Ti<g ref="char:EOLhyphen"/>dings diſpiercing themſelves, put ſeveral other Cities of that deluded Kingdom in a blaze. By which Extravagant Joy for an Imaginary Death we may aſſuredly conclude the Dread which all <hi>France</hi> is in of ſuch a formidable Hero.</p>
+                  <pb facs="tcp:66330:83"/>
+               </div>
+               <div n="58" type="illustration">
+                  <pb facs="tcp:66330:84"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Mary II wearing a crown, holding another</figDesc>
+                        <head>Fig: 58.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="58" type="illustration">
+                  <pb n="79" facs="tcp:66330:84"/>
+                  <head>FIGURE LVIII.</head>
+                  <p>This Figure repreſents the Queen ſtanding under an Iriſh Harp, with a Crown upon her Head, another in her Right hand, and a Bon<g ref="char:EOLhyphen"/>net of Freedom in her Left, which ſhe gives a Damſel kneeling at her Feet. Below, lyes a Cap<g ref="char:EOLhyphen"/>tive Manacl'd and Fetter'd, and another Perſon Slain outright. On the other hand, ſhe is pre<g ref="char:EOLhyphen"/>ſented by two Seamen with Chargers of Fiſh, ſuppos'd to be ſome Rarities of the Iriſh Ocean. To ſignifie, that by the Reduction of <hi>Ireland,</hi> ſhe is not only Miſtreſs of that Kingdom, but has regain'd the wonted Security for her We<g ref="char:EOLhyphen"/>ſtern Navigation. To which was added this Inſcription,
+<q>REGNA JOVIS CONJUX.</q>
+                     <q>
+                        <p>With Equal Power</p>
+                        <p>The Wife of <hi>Jove</hi> Commands.</p>
+                     </q>
+                  </p>
+               </div>
+               <div n="59" type="illustration">
+                  <pb n="80" facs="tcp:66330:85"/>
+                  <head>FIGURE LIX.</head>
+                  <p>The 59th Figure repreſents the Queen of <hi>England</hi> ſitting under an Orange-Tree, with a Crown upon her Head, and <hi>Jupiter</hi>'s Thunder in her Hand, to whom ſeveral diſtreſſed Perſons ſeem to make their haſty Addreſſes, with Arms ſtretch'd forth for Succour. Below them, ſtands a Monk grinning and foaming at the Mouth, and holding a flaming Torch in one hand, with a Vizor in the other. And lowermoſt of all, a Sea God, and a Sea Goddeſs, both in Chains.</p>
+                  <p>This refreſhes in our Memory the Cruel Per<g ref="char:EOLhyphen"/>ſecution of the Proteſtants in <hi>France;</hi> where the Eccleſiaſticks out of their embitter'd Rage and Malice, having thrown away their Vizors, ſhew themſelves in their bloody colours. Which engag'd thoſe miſerable People to fly for San<g ref="char:EOLhyphen"/>ctuary to the Queen of <hi>England,</hi> whoſe Piety and Compaſſion toward the Afflicted was ſuffi<g ref="char:EOLhyphen"/>ciently known to all the World. She therefore takes 'em into her Protection, and Promiſes to defend 'em from the Cruelty of their Inhuman Perſecutors. The Orange-Tree is therefore aptly planted over her Head, as being the per<g ref="char:EOLhyphen"/>fect Emblem of the Deſign, with this Inſcrip<g ref="char:EOLhyphen"/>tion underneath,
+<q>TUA VOS REFRIGERET UMBRA.</q>
+                     <q>Let thy ſhade refreſh us.</q>
+                  </p>
+               </div>
+               <div n="59" type="illustration">
+                  <pb facs="tcp:66330:85"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of Mary II holding thunderbolt</figDesc>
+                        <head>Fig: 59.</head>
+                        <p>TUA NOS REFRIGERAT UMBRA</p>
+                     </figure>
+                  </p>
+               </div>
+               <div n="60" type="illustration">
+                  <pb facs="tcp:66330:86"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraving of William III returning triumphant</figDesc>
+                        <head>Fig: 60.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div n="60" type="illustration">
+                  <pb n="81" facs="tcp:66330:86"/>
+                  <head>FIGURE LX.</head>
+                  <p>This Figure repreſents the King a Horſe<g ref="char:EOLhyphen"/>back attended by his Guards, and by two Dam<g ref="char:EOLhyphen"/>ſels preſented with a Crown and Scepter; after which, he rides on through Multitudes of People welcoming him Home with loud Accla<g ref="char:EOLhyphen"/>mations, and filling the Air with ſhouts of Joy to ſee him ſo ſafely eſcap'd the Dangers he had undergon. Denoting the Triumphant Return of His Majeſty to <hi>London,</hi> after the Reduction of <hi>Ireland;</hi> and how highly he was eſteem'd and belov'd by his Subjects. The Motto of this Figure was,
+<q>VENI, VIDI, VICI.</q>
+                     <q>I Went, I Saw, and Overcame.</q>
+                  </p>
+               </div>
+               <div type="illustration">
+                  <pb n="82" facs="tcp:66330:87"/>
+                  <head>The Fourth Great Figure</head>
+                  <figure>
+                     <figDesc>engraving of celebration (not folded out)</figDesc>
+                     <head>Fig: 61.</head>
+                  </figure>
+                  <p>Upon another appear'd two Men that were Hewing down a Tree, with theſe words,
+<q>NUNQUAM FRACTA MALIS.</q>
+                     <q>Never broken by Misfortune.</q>
+                  </p>
+                  <p>Upon a Third was to be ſeen a Dove, with a Lawrel Branch in her Bill, with this Device,
+<q>TANDEM EXPECTATA REDIVIT.</q>
+                     <q>Expected long, at length return'd.</q>
+                  </p>
+                  <pb n="84" facs="tcp:66330:89"/>
+                  <p>The Fourth contain'd a Pillar of Fire, with theſe words,
+<q>HINC SPESQUE SALUSQUE.</q>
+                     <q>From Hence our Hope and Safety.</q>
+                  </p>
+                  <p>The Fifth was garniſh'd with a Lyoneſs, having this for her Motto,
+<q>NESCIA FERRE JUGUM.</q>
+                     <q>To Servitude a Stranger.</q>
+                  </p>
+                  <p>Upon the Sixth was a Fiſh flying over the Sea, with this Device,
+<q>TUMULO VELOCIOR ALTO.</q>
+                     <q>Too ſwift for my deep Tomb to ſwallow.</q>
+                  </p>
+                  <pb n="85" facs="tcp:66330:89"/>
+                  <p>Upon the ſame Theatre were alſo plac'd a Lyon, a <hi>Hercules,</hi> and a Sun cloſe one by ano<g ref="char:EOLhyphen"/>ther; together with four Cheſts of 50 Fuzees apiece, repreſenting the Kingdoms of <hi>England, Scotland, France,</hi> and <hi>Ireland;</hi> beſides eight more full of Rockets, ſome of the ſame, ſome a ſize leſſer. In the Middle of the The<g ref="char:EOLhyphen"/>atre glitter'd the two Letters W. R. and above them a Crown. There was alſo to be ſeen a Skipper, who labour'd his way to the ſhore among the Ice, with this ſhort Sentence over his Head,
+<q>NE METUAS, CAESAREM VEHIS.</q>
+                     <q>Fear not, thou carry'ſt <hi>Caeſar.</hi>
+                     </q>
+                  </p>
+                  <pb n="86" facs="tcp:66330:90"/>
+                  <p>And Underneath,
+<q>REGI EX PELAGO PER GLACIEM PER NEBULA REDUCI.</q>
+                     <q>To the King now ſafe on Shore, through Ice and Foggs.</q>
+                  </p>
+                  <p>After a Diſcharge of 30 Pieces of Cannon that were Planted upon the Walls of the Vivier, the Cipher and Crown were lighted, and at the ſame time the Theatre glitter'd with above 800 Flambeaux; ſo that the Ciphers and Crown being on fire, were to be diſtinctly diſcern'd, which was wonderfully pleaſant to the ſight. At the ſame time ſeveral other Motto's and Deviſes were to be diſtinctly read, as they play'd in the Air upon different little Planks to which the Rockets were faſten'd, and among others, theſe that follow.
+<q>SEMPER TRIUMPHET AUGUSTUS.</q>
+                     <q>Always may <hi>Auguſtus</hi> Triumph.</q>
+                     <q>
+                        <pb n="87" facs="tcp:66330:90"/>OFFENSUM METUANT HOSTES.</q>
+                     <q>When injur'd may his Enemies dread Him.</q>
+                     <q>CARUM VENERENTUR AMICI.</q>
+                     <q>Dear to his Friends may he by them be Reverenc'd.</q>
+                  </p>
+                  <p>Soon after the Pyramids began to play their Parts. At firſt nothing was to be ſeen but a gloomy Smoak, which was attended with the continued Spurtings of clear, quick and glittering Fire reſembling the Spouts of a Fountain. In the mean time the Images of Fame that ſtood near certain Veſſels fill'd with Incenſe caſt up flaming Balls into the Sky, together with a great Number of
+<pb n="88" facs="tcp:66330:91"/> Serpents, which was a Sight moſt lovely to the Eye. Nor were there any leſs than Fifty Boxes fill'd with theſe Serpents, and the Py<g ref="char:EOLhyphen"/>ramids all the while were ſeen burning to the very Bottom.</p>
+                  <p>After that the Lion plaid his part, caſting forth fire from his Eyes, and from his Throat iſſu'd a Beam very thick and dusky, about Seven or Eight Foot long; but the fire that darted from his Eyes, was as quick and clear as Chryſtal. He alſo caſt forth a great num<g ref="char:EOLhyphen"/>ber of Flaming Balls and Serpents, very pleaſing to the Spectators.</p>
+                  <p>Then the <hi>Hercules,</hi> that was placed next the Sun that repreſented <hi>France,</hi> began to ſpout from his Mouth continual Rays of Fire. He alſo caſt forth ſuch a Number of Ser<g ref="char:EOLhyphen"/>pents and Artificial Fires, that thereby the Sun was quite conſum'd. After which, the Fire took hold of his Club, from whence ſlew ſeveral Balls of Fire into the Sky, as it were to render Thanks to Hea<g ref="char:EOLhyphen"/>ven for the Victory which he had gain'd over the Sun.</p>
+                  <p>Afterwards, they ſet fire to all the volant Rockets, of which there was a vaſt Num<g ref="char:EOLhyphen"/>ber;
+<pb n="89" facs="tcp:66330:91"/> and at the ſame time the Mortars that were filled with Artificial Fire-works to burn in the Water, diſcharg'd a very great quantity of flying Rockets, which, together with the Dolphins that were fir'd at the ſame inſtant, was a moſt Charming Specta<g ref="char:EOLhyphen"/>cle, while at the ſame time that the flying Rockets which were every one of 'em filled with ſeveral Petards, did their Buſineſs in the Air, the other Artificial Fireworks were no leſs wanton upon the Water: ſo that which way ſoever you caſt your Eye, the Sight was ſtill taken up with ſome new ob<g ref="char:EOLhyphen"/>ject, ſo that 'twas impoſſible the Spectators could be weary of gazing.</p>
+                  <p>At length the fire took hold of the pitch'd Barrels, which at firſt cover'd the Air with a thick ſmoak, that at laſt gave way to ſuch an extraordinary Brightneſs, that they who were a great way off, might read diſtinctly the ſmalleſt Character, notwithſtanding the foggineſs of the Night.</p>
+                  <p>'Tis farther to be obſerv'd, that all the while the Great Guns play'd continually, ſo that the Bellowing of the Cannon, the Thun<g ref="char:EOLhyphen"/>der of the Small ſhot, both Muſquets and
+<pb n="90" facs="tcp:66330:92"/> Harquebuſes, which were the Volleys of the Regiments of <hi>Friſſem</hi> and <hi>Iterſum,</hi> drawn up in the Vivier, together with the Bounces of the Petards, and the Shouts and Acclamations of the People were Teſtimonies ſo ſufficient of the Publick Joy, as afterwards in the Relation rung but a harſh and unpleaſant Peal in the Ears of the Common Enemy.</p>
+                  <pb n="91" facs="tcp:66330:92"/>
+                  <p>Beſides all theſe, there were ſeveral Bon<g ref="char:EOLhyphen"/>fires and Fireworks before the Houſes of Par<g ref="char:EOLhyphen"/>ticular Perſons of Quality, and divers Burghers of the <hi>Hague.</hi>
+                  </p>
+                  <p>In the firſt place, before the Spaniſh Am<g ref="char:EOLhyphen"/>baſſador's Palace, there were a great Num<g ref="char:EOLhyphen"/>ber of large Flambaux, and Fireworks with Arms and Deviſes. As alſo before the Pa<g ref="char:EOLhyphen"/>lace of the Baron <hi>de Suaſſe</hi> in the Great <hi>Hoog<g ref="char:EOLhyphen"/>ſtraet.</hi>
+                  </p>
+                  <p>Before the Houſe of Major <hi>Duckene</hi> in the Weſt End.</p>
+                  <p>Upon the Piazza before <hi>Swaen.</hi>
+                  </p>
+                  <p>Before the Houſe of the Sieur <hi>Ravens,</hi> Apo<g ref="char:EOLhyphen"/>thecary.</p>
+                  <p>Before the Houſe of the Sieur <hi>Van Oyen</hi> upon the <hi>Kneuterdijck.</hi>
+                  </p>
+                  <p>Before the Houſe of the Sieur <hi>Sulendonck</hi> in the <hi>Noble Straet.</hi>
+                  </p>
+                  <p>Monſieur <hi>Schuylenbourg</hi> Regiſter of the Coun<g ref="char:EOLhyphen"/>cil was more particularly ſignal for ſeveral Ra<g ref="char:EOLhyphen"/>rities embelliſh'd with Ingenious Motto's and Deviſes.</p>
+                  <p>Among the reſt, there was one in the form of a Lion, with this Sentence.
+<pb n="92" facs="tcp:66330:93"/>
+                     <q>GENEROSUS ABORTU.</q>
+                     <q>Generous from his Birth.</q>
+                  </p>
+                  <p>Another repreſented a winged <hi>Pegaſus,</hi> that by his Strength and Agility mounted a ſteep Rock, with this Motto,
+<q>SUPERAT CAELESTIBUS ALIS.</q>
+                     <q>With Wings Celeſtial he ſurmounts.</q>
+                  </p>
+                  <p>In a Third, was ſeen His Majeſty hold<g ref="char:EOLhyphen"/>ing a Lance, and a Perſon kneeling before him, to Congratulate his Return, with theſe words,
+<q>REGI GULIELMO REDUCI.</q>
+                     <q>To King <hi>William</hi> return'd.</q>
+                  </p>
+                  <p>In a Fourth were to be ſeen on the one ſide Armies Marching, and ſome Battels; On the other, an Eagle cleaving the Air with her Wings, and holding a <hi>Jupiter</hi>'s Thunder in her Taloon, with this Sentence,
+<pb n="93" facs="tcp:66330:93"/>
+                     <q>TRANSITQUE FERITQUE.</q>
+                     <q>As ſhe makes way, ſhe ſtrikes.</q>
+                  </p>
+                  <p>In a Fifth was to be ſeen the King and Queen with their Crowns upon their Heads, and a Train of ſeveral Perſons Bare attending 'em with this Motto,
+<q>IMPERIA AUGUSTO.</q>
+                     <q>Empires are only to <hi>Auguſtus</hi> due.</q>
+                  </p>
+                  <p>Before the Houſe of Advocate <hi>Henry Vander Haer,</hi> were to be ſeen the Arms of <hi>England,</hi> with this Deviſe,
+<q>VIVANT <hi>GULIELMUS</hi> ET <hi>MARIA</hi> REGINA.</q>
+                     <q>Long live King <hi>William</hi> and Queen <hi>Mary.</hi>
+                     </q>
+                  </p>
+                  <p>Underneath, appear'd in Writing, theſe words,
+<pb n="94" facs="tcp:66330:94"/>
+                     <q>TANDEM BONA CAUSA TRIUMPHAT.</q>
+                     <q>At length the Righteous Cauſe Triumphs.</q>
+                  </p>
+                  <p>On the one ſide,
+<q>FORTITUDO.</q>
+                  </p>
+                  <p>On the other,
+<q>VICTORIA.</q>
+                  </p>
+                  <p>On the Right ſide of the ſaid Arms was the Picture of an Orange-Tree bearing Flowers and Fruit with this Motto,
+<q>DAT FLORENS FRUCTUS.</q>
+                     <q>It Bloſſoms and bears Fruit.</q>
+                  </p>
+                  <p>On the Left ſide was another Picture of a Roſe-Tree and the Seven United Provinces, with theſe words,
+<pb n="95" facs="tcp:66330:94"/>
+                     <q>SUAVIS ODOR REFICIT.</q>
+                     <q>The fragrant Smell refreſhes.</q>
+                  </p>
+                  <p>On the Right ſide, between the Arms and the Orange-Tree, was a <hi>Pallas,</hi> with a Crown Im<g ref="char:EOLhyphen"/>perial, a Sword in her Hand, and under her Feet an Eagle in Flames, with a <hi>Cornucopia</hi> garniſh'd with Arms, Crowns and Scepters, with this Motto,
+<q>REGUM DECUS.</q>
+                     <q>THE GRACE OF REGAL DIGNITY.</q>
+                  </p>
+                  <p>On the Left hand, between the Arms and the Roſe-Tree, was the Picture of the Queen, holding a Mirror in her right Hand, and a <hi>Cor<g ref="char:EOLhyphen"/>nucopia</hi> in the other, trampling upon a Serpent; and the Motto for this Deviſe was,
+<q>PRUDENTIA AUGUSTA.</q>
+                     <q>Prudence Revear'd.</q>
+                  </p>
+                  <p>Underneath the ſaid Arms was an Oval, wherein was Painted Three Lions and an Im<g ref="char:EOLhyphen"/>perial Crown, and over the ſaid Lions, this Inſcription,
+<pb n="96" facs="tcp:66330:95"/>
+                     <q>LEO BRITANNICUS, NASSAVIUS, BELGICUS.</q>
+                     <q>The Britiſh, Naſſavian, Belgick Lion.</q>
+                  </p>
+                  <p>And under the Three Lions, theſe words,
+<q>QUID TANTIS CONJUNCTIS VIRIBUS OBSTET.</q>
+                     <q>What can withſtand ſo great a Force UNITED.</q>
+                  </p>
+                  <p>In ſhort, ſhould we go about to Enumerate here, all the Illuminations, Fireworks, Devi<g ref="char:EOLhyphen"/>ſes, Sentences, Verſes, <hi>&amp;c.</hi> which were to be ſeen in the Principal Streets of the <hi>Hague,</hi> it would require the Inlargement of a Volume. However, here is enough to ſhew how highly this Great Monarch is belov'd by the People of theſe Provinces, and how Superlative their Joy appear'd to ſee him return Triumphant to his Native Country.</p>
+               </div>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:66330:95"/>
+         </div>
+      </body>
+   </text>
+</TEI>
